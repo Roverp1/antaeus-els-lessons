@@ -15,6 +15,7 @@ Student-specific preferences and observations that steer how lessons are built.
 - Language: English explanations with Russian glosses on pronouns and vocab. Grammar terms stay in English.
 - Car vocabulary used as the teaching context wherever possible.
 - Verbs for present-simple-actions; adjectives and people-nouns for to be. Match vocab to the grammar being taught.
+- Teach American English. English File Elementary uses BrE; follow its grammar progression, but swap BrE words/spellings for AmE when introducing vocab. Watch for: tyre/tire, petrol/gas, boot/trunk, bonnet/hood, lorry/truck, motorway/highway, autumn/fall, lift/elevator, indicators/turn signals, car park/parking lot.
 
 ## Syllabus
 - English File Elementary as the spine. File 1 = to be. Don't skip ahead.
