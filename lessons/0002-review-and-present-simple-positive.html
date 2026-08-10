@@ -221,7 +221,7 @@
     </footer>
 
     <script>
-      const normalize = (value) => value.toLowerCase().replace(/[?.!']/g, "").replace(/\s+/g, " ").trim();
+      const normalize = (value) => value.toLowerCase().replace(/[,?.!']/g, "").replace(/\s+/g, " ").trim();
 
       document.querySelector("#check-be").addEventListener("click", () => {
         const inputs = [...document.querySelectorAll("#be-check input")];
