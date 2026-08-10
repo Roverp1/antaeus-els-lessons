@@ -403,9 +403,20 @@ table th {
   background: #edf1f5;
 }
 
+table tbody tr,
+table tbody tr:nth-child(odd),
+table tbody tr:nth-child(even) {
+  background: var(--surface);
+}
+
 table td,
 table th {
+  color: var(--ink);
   border-color: var(--rule);
+}
+
+table td {
+  background: var(--surface);
 }
 
 .practice-list {
