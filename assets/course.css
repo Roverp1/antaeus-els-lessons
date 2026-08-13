@@ -427,6 +427,15 @@ table td {
   margin: 0.8rem 0;
 }
 
+.blank-line {
+  display: inline-block;
+  width: min(12rem, 100%);
+  min-width: 5rem;
+  height: 1.2em;
+  border-bottom: 1px solid var(--ink);
+  vertical-align: bottom;
+}
+
 .answer-key {
   margin-top: 1rem;
   padding: 0.85rem 1rem;
@@ -491,6 +500,12 @@ table td {
 
   .formula { grid-template-columns: 1fr; gap: 0.4rem; }
   .formula span { transform: rotate(90deg); justify-self: center; }
+
+  table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+  }
 }
 
 @media print {
