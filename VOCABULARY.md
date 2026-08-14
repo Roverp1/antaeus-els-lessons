@@ -69,3 +69,13 @@ was taught, not every dictionary meaning of a spelling.
 | Entry       | Sense and part of speech                      | First introduced | Status     | Notes                                  |
 | ----------- | --------------------------------------------- | ---------------- | ---------- | -------------------------------------- |
 | `sometimes` | adverb: on some occasions, but not every time | Lesson 5         | introduced | before an action verb: `sometimes uses` |
+
+## Cumulative practice 2: new words
+
+| Entry      | Sense and part of speech                     | First introduced      | Status     | Notes                               |
+| ---------- | -------------------------------------------- | --------------------- | ---------- | ----------------------------------- |
+| `usually`  | adverb: in most situations or on most days   | Cumulative practice 2 | introduced | before an action verb               |
+| `weekend`  | noun: Saturday and Sunday                    | Cumulative practice 2 | introduced | `on the weekend` in American English |
+| `office`   | noun: a place where people do desk work      | Cumulative practice 2 | introduced | `work in an office`                 |
+| `reliable` | adjective: working well without many problems | Cumulative practice 2 | introduced | `The car is reliable.`              |
+| `wash`     | verb: clean something with water             | Cumulative practice 2 | introduced | `wash the car`                      |
