@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-repo="$(git rev-parse --show-toplevel)"
+repo="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$repo"
 
 "$repo/scripts/build-index"
