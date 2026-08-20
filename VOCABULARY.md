@@ -5,6 +5,7 @@ was taught, not every dictionary meaning of a spelling.
 
 ## Status
 
+- `prepared`: appears in material, but has not been taught or assigned
 - `introduced`: presented in a lesson; no independent-use evidence yet
 - `practiced`: used in controlled practice
 - `recalled independently`: used correctly without prompts
@@ -74,8 +75,8 @@ was taught, not every dictionary meaning of a spelling.
 
 | Entry      | Sense and part of speech                     | First introduced      | Status     | Notes                               |
 | ---------- | -------------------------------------------- | --------------------- | ---------- | ----------------------------------- |
-| `usually`  | adverb: in most situations or on most days   | Cumulative practice 2 | introduced | before an action verb               |
-| `weekend`  | noun: Saturday and Sunday                    | Cumulative practice 2 | introduced | `on the weekend` in American English |
-| `office`   | noun: a place where people do desk work      | Cumulative practice 2 | introduced | `work in an office`                 |
-| `reliable` | adjective: working well without many problems | Cumulative practice 2 | introduced | `The car is reliable.`              |
-| `wash`     | verb: clean something with water             | Cumulative practice 2 | introduced | `wash the car`                      |
+| `usually`  | adverb: in most situations or on most days   | Cumulative practice 2 | prepared | Level 6; before an action verb       |
+| `weekend`  | noun: Saturday and Sunday                    | Cumulative practice 2 | prepared | Level 6; `on the weekend` in American English |
+| `office`   | noun: a place where people do desk work      | Cumulative practice 2 | prepared | Level 6; `work in an office`         |
+| `reliable` | adjective: working well without many problems | Cumulative practice 2 | prepared | Level 6; `The car is reliable.`      |
+| `wash`     | verb: clean something with water             | Cumulative practice 2 | prepared | Level 6; `wash the car`              |
