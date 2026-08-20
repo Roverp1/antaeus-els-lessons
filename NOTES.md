@@ -10,6 +10,7 @@ Student-specific state and course conventions. Read this file before creating or
 - Lesson 5 (`lessons/0003-subjects-and-present-simple-negatives.html`) taught complete subjects and present-simple action negatives. The full lesson was completed, including the reading section and `sometimes`.
 - `exercises/0002-cumulative-present-simple-practice.html` Levels 1-4 were assigned as homework. Completion and accuracy are not verified yet.
 - Lesson 6 (`lessons/0004-present-simple-action-questions.html`) is prepared but has not been taught. It starts with homework, delayed retrieval, and a mixed-negative gate before action questions.
+- `exercises/0003-present-simple-question-practice.html` is the prepared graded practice page for Lesson 6.
 - The next chat should teach or revise Lesson 6, not create a later lesson unless the tutor reports new evidence.
 
 ## Student
