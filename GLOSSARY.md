@@ -1,47 +1,65 @@
-# ESL Glossary (Starter)
+# ESL Grammar Glossary
 
-The canonical terminology for the lessons in this workspace. Lessons use
-these terms; the glossary holds the compressed definitions the student
-should own.
+Canonical grammar terms already taught and used in this workspace.
 
-## Terms
+## Sentence structure
 
 **Subject**:
-The person or thing doing the action; the noun/pronoun the sentence is about.
-In English it comes first and cannot be dropped (Russian lets you drop it).
-_Avoid_: subject-part, subject-noun. The subject is always a noun or pronoun.
+The person, thing, or idea the sentence is about. English requires an explicit subject even when Russian can omit it.
+_Avoid_: Doer. A subject does not always perform an action, as in `Math is hard`.
 
-**Pronoun**:
-A word used in place of a noun, that points to a person or thing without
-naming it ("I", "he", "it"). Lets you avoid repeating the noun.
-_Avoid_: shortcut, pointer. Use as the subject pronoun when meaning
-I/you/he/she/it/we/they.
+**Complete subject**:
+All the words that name the subject, such as `your parents` or `my brother's car`. Replace the complete subject together when choosing a pronoun.
+_Avoid_: First word, subject word.
 
-**Verb**:
-The action or state word in a sentence ("drive", "is", "runs"). English
-sentences need one (and one main verb).
-_Avoid_: action-word. Some verbs are states, not actions ("to be"); still a
-verb.
-
-**"to be"**:
-Linking verb that connects a subject to a characteristic ("I am a driver",
-"The car is fast"). Has three present forms: am, is, are.
-_Avoid_: state-verb, identity-verb. In English grammar it is called "to be".
+**Subject pronoun**:
+A word that replaces a complete subject: `I`, `you`, `he`, `she`, `it`, `we`, or `they`.
+_Avoid_: Shortcut, pointer.
 
 **Sentence**:
-A complete statement with a subject and a verb ("I am a driver"). Fragments
-with either missing ("Am a driver") are not English sentences.
-_Avoid_: phrase. A phrase lacks a subject+verb pair; a sentence has both.
+A complete unit with a subject and a verb: `My brother works at home.` A group missing either one is a fragment, not a sentence.
+_Avoid_: Phrase. A phrase does not contain a complete subject-verb structure.
 
-**Positive / Negative / Question / Short answer**:
-The four forms every English statement takes.
-- Positive: "I am a driver."
-- Negative: "I am not a driver." (uses "not")
-- Question: "Am I a driver?" (subject-verb order swaps)
-- Short answer: "Yes, I am. / No, I'm not."
-_Avoid_: plus, minus, query. Use positive/negative/question/short answer.
+## Verbs
 
-## Sub-grouping (will emerge)
+**Verb**:
+The word or verb group that expresses a state, identity, action, or function. Every English sentence needs a verb and one main verb.
+_Avoid_: Action word. `To be` and `need` are verbs but do not describe physical actions.
 
-As more tenses are added, this glossary will grow sub-groups (e.g. ## To be
-forms, ## Present simple). Keep it flat for now; only one tense is in scope.
+**`to be`**:
+The verb used for identity, description, location, and origin. Its present forms are `am`, `is`, and `are`.
+_Avoid_: Action verb.
+
+**Action verb (course label)**:
+The beginner course label for a main verb other than `to be`, including `drive`, `work`, and `need`. These verbs use `do not` or `does not` in present-simple negatives.
+_Avoid_: Normal verb. Not every verb in this group describes physical movement.
+
+**Basic verb**:
+The verb form without third-person `-s`: `drive`, `work`, `need`. Use the basic verb after `do not` and `does not`.
+_Avoid_: Infinitive when `to` is not present.
+
+## Time and forms
+
+**Tense**:
+A grammar form that helps place a situation or action in time.
+_Avoid_: Time. A tense is a grammar system, not time itself.
+
+**Present simple**:
+The present-tense form used for identity, descriptions, routines, habits, facts, and schedules.
+_Avoid_: Anything happening now. A temporary action in progress usually needs a different form.
+
+**Positive sentence**:
+A sentence that states information without making it negative: `The car is new.` or `My brother drives to work.`
+_Avoid_: Plus sentence.
+
+**Negative sentence**:
+A sentence containing `not` that says something is not true: `The car is not new.` or `My brother does not drive to work.`
+_Avoid_: Minus sentence.
+
+**Question**:
+A sentence that asks for information. Question word order differs from statement word order: `Is the car new?`
+_Avoid_: Query.
+
+**Short answer**:
+A brief grammatical answer that repeats the necessary verb: `Yes, it is.` or `No, it is not.`
+_Avoid_: A bare `yes` or `no` when practicing the grammar form.
