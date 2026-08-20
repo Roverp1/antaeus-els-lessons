@@ -1,7 +1,7 @@
 # Mission: High-school English for a Russian-speaking student
 
 ## Why
-The student faces weak high-school English lessons and was told he must master quantifiers (some/any/many/a lot of) in the next school year. He can't yet reliably construct basic English sentences — the foundation isn't there. The concrete goal is to make that school demand trivial by building the foundation first: subject + verb, to be, there is/are, plurals — then quantifiers land as a short final step, not a wall.
+The student faces weak high-school English lessons and was told he must master quantifiers (`some`, `any`, `many`, `a lot of`) in the next school year. He cannot yet construct basic English sentences reliably. The goal is to make the school requirement easy by first building subject + verb, `to be`, present-simple actions, `there is/are`, plurals, and countability.
 
 ## Success looks like
 - Constructs basic positive/negative/question sentences in present simple without dropping the subject
@@ -11,9 +11,11 @@ The student faces weak high-school English lessons and was told he must master q
 
 ## Constraints
 - Russian L1; main error is subject-dropping (Russian allows it, English doesn't)
+- Dyslexia makes written notes difficult to consult; notes must be concise, stable, and built in small stages
 - Student is interested in cars; car vocabulary used as the teaching vehicle (not the goal itself)
-- Lessons are 1-on-1, ~weekly
+- Lessons are 1-on-1, about one hour, and do not include scheduled breaks
 - English File Elementary syllabus as the grammar spine
+- Advancement is based on delayed retrieval, not immediate performance during explanation
 
 ## Out of scope
 - Past tenses (until foundation is solid)

@@ -28,7 +28,9 @@ form roughly correct present simple statements. The actual errors:
 - This drills the I/you/he/she/it/we/they frame that the subject-drop bug
   attacks — to be is the cleanest vehicle to fix it.
 - Every lesson must include explicit "write this down" instruction for the
-  grammar block. Verbal-only explanation has been tried and failed.
+  grammar block. Verbal-only explanation has been tried and failed. This is
+  refined by LR-0005: notes should be concise and reconstructed in stages,
+  not copied as long blocks.
 - Don't advance to quantifiers (some/any/many/a lot of) on the school's
   demand until to be, present simple actions, there is/are, and plurals
   are all evidenced as learned. Quantifiers decorate these, they don't
