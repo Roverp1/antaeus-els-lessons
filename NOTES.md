@@ -4,14 +4,14 @@ Student-specific state and course conventions. Read this file before creating or
 
 ## Current course state
 
-- Five lessons are complete.
+- Six lessons are complete.
 - Lesson 3 taught present `to be`: positive, negative, question, and short-answer forms. Its material is archived under `legacy/`.
 - Lesson 4 (`lessons/0002-review-and-present-simple-positive.html`) taught positive action verbs and the distinction between `to be` and action verbs.
 - Lesson 5 (`lessons/0003-subjects-and-present-simple-negatives.html`) taught complete subjects and present-simple action negatives. The full lesson was completed, including the reading section and `sometimes`.
 - `exercises/0002-cumulative-present-simple-practice.html` Levels 1-4 were assigned as homework. Completion and accuracy are not verified yet.
-- Lesson 6 (`lessons/0004-present-simple-action-questions.html`) is prepared but has not been taught. It starts with homework, delayed retrieval, and a mixed-negative gate before action questions.
-- `exercises/0003-present-simple-question-practice.html` is the prepared graded practice page for Lesson 6.
-- The next chat should teach or revise Lesson 6, not create a later lesson unless the tutor reports new evidence.
+- Lesson 6 (`lessons/0004-present-simple-action-questions.html`) was completed and went generally well. The student still had some difficulty deciding between `BE` and an action verb.
+- `exercises/0003-present-simple-question-practice.html` is the graded practice page for Lesson 6.
+- Lesson 7 should repair `BE or ACTION VERB` selection and teach third-person positive spelling (`-s`, `-es`, `-ies`).
 
 ## Student
 
@@ -65,17 +65,19 @@ Student-specific state and course conventions. Read this file before creating or
 - Use present simple only for identity, descriptions, routines, habits, facts, and schedules.
 - Introduce a simple useful word such as `sometimes` rather than force known vocabulary into an unnatural sentence.
 - Begin with known vocabulary. Record every new word sense in `VOCABULARY.md`.
+- A dedicated reading may contain two or three inferable new content words without prior explanation. Keep its grammar familiar, test general meaning rather than word definitions, and explain the new words in the homework.
 - Avoid unrelated spelling rules, tense contrasts, or unusual meanings while introducing a grammar rule.
 - Cars are a teaching context, not the learning goal.
 
 ## Course sequence
 
-1. Teach prepared Lesson 6: present-simple action questions, behind the mixed-negative gate.
+1. Repair `BE or ACTION VERB` selection and teach third-person positive spelling.
 2. Consolidate action questions and teach action short answers only if delayed retrieval is stable.
 3. Teach `there is / there are`.
 4. Teach singular/plural nouns and `a/an`.
 5. Teach countable and uncountable nouns.
-6. Teach `some`, `any`, `many`, and `a lot of`.
+6. Teach `some` and `any`.
+7. Teach `many` and `a lot of`.
 
 The sequence is conditional on evidence. Do not treat coverage as learning.
 

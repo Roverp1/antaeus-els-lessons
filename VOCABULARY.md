@@ -71,12 +71,21 @@ was taught, not every dictionary meaning of a spelling.
 | ----------- | --------------------------------------------- | ---------------- | ---------- | -------------------------------------- |
 | `sometimes` | adverb: on some occasions, but not every time | Lesson 5         | introduced | before an action verb: `sometimes uses` |
 
-## Cumulative practice 2: new words
+## Cumulative practice 2: introduced words
 
 | Entry      | Sense and part of speech                     | First introduced      | Status     | Notes                               |
 | ---------- | -------------------------------------------- | --------------------- | ---------- | ----------------------------------- |
-| `usually`  | adverb: in most situations or on most days   | Cumulative practice 2 | prepared | Level 6; before an action verb       |
-| `weekend`  | noun: Saturday and Sunday                    | Cumulative practice 2 | prepared | Level 6; `on the weekend` in American English |
-| `office`   | noun: a place where people do desk work      | Cumulative practice 2 | prepared | Level 6; `work in an office`         |
-| `reliable` | adjective: working well without many problems | Cumulative practice 2 | prepared | Level 6; `The car is reliable.`      |
-| `wash`     | verb: clean something with water             | Cumulative practice 2 | prepared | Level 6; `wash the car`              |
+| `usually`  | adverb: in most situations or on most days   | Cumulative practice 2 | introduced | Level 6; before an action verb       |
+| `weekend`  | noun: Saturday and Sunday                    | Cumulative practice 2 | introduced | Level 6; `on the weekend` in American English |
+| `office`   | noun: a place where people do desk work      | Cumulative practice 2 | introduced | Level 6; `work in an office`         |
+| `reliable` | adjective: working well without many problems | Cumulative practice 2 | introduced | Level 6; `The car is reliable.`      |
+| `wash`     | verb: clean something with water             | Cumulative practice 2 | introduced | Level 6; `wash the car`              |
+
+## Lesson 7 reading and homework
+
+| Entry       | Sense and part of speech                              | First introduced | Status   | Notes                                      |
+| ----------- | ----------------------------------------------------- | ---------------- | -------- | ------------------------------------------ |
+| `garage`    | noun: a place where vehicles are stored or repaired   | Lesson 7 homework | prepared | infer from the Lesson 7 reading first      |
+| `customer`  | noun: a person who pays for goods or a service        | Lesson 7 homework | prepared | infer from the Lesson 7 reading first      |
+| `careful`   | adjective: giving attention to avoid errors or danger | Lesson 7 homework | prepared | reading also uses the adverb `carefully`   |
+| `carefully` | adverb: with attention to avoid errors or danger      | Lesson 7 homework | prepared | derived from `careful`                     |
