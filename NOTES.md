@@ -9,9 +9,9 @@ Student-specific state and course conventions. Read this file before creating or
 - Lesson 4 (`lessons/0002-review-and-present-simple-positive.html`) taught positive action verbs and the distinction between `to be` and action verbs.
 - Lesson 5 (`lessons/0003-subjects-and-present-simple-negatives.html`) taught complete subjects and present-simple action negatives. The full lesson was completed, including the reading section and `sometimes`.
 - `exercises/0002-cumulative-present-simple-practice.html` Levels 1-4 were assigned as homework. Completion and accuracy are not verified yet.
-- Lesson 6 (`lessons/0004-present-simple-action-questions.html`) was completed and went generally well. The student still had some difficulty deciding between `BE` and an action verb.
+- Lesson 6 (`lessons/0004-present-simple-action-questions.html`) was completed and went generally well. The student still had some difficulty deciding between `to be` and an action verb.
 - `exercises/0003-present-simple-question-practice.html` is the graded practice page for Lesson 6.
-- Lesson 7 should repair `BE or ACTION VERB` selection and teach third-person positive spelling (`-s`, `-es`, `-ies`).
+- Lesson 7 should repair `to be or action verb` selection and teach third-person positive spelling (`-s`, `-es`, `-ies`).
 
 ## Student
 
@@ -71,7 +71,7 @@ Student-specific state and course conventions. Read this file before creating or
 
 ## Course sequence
 
-1. Repair `BE or ACTION VERB` selection and teach third-person positive spelling.
+1. Repair `to be or action verb` selection and teach third-person positive spelling.
 2. Consolidate action questions and teach action short answers only if delayed retrieval is stable.
 3. Teach `there is / there are`.
 4. Teach singular/plural nouns and `a/an`.
