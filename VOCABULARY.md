@@ -97,3 +97,6 @@ was taught, not every dictionary meaning of a spelling.
 | `appointment` | noun: an arranged time to meet someone or receive a service | Lesson 8 homework | prepared | `make/have an appointment`; garage context     |
 | `available`   | adjective: free and able to help or be used                 | Lesson 8 homework | prepared | `The mechanic is available at four.`           |
 | `owner`       | noun: a person who owns something                           | Lesson 8 homework | prepared | `car owner`; reading also uses the verb `owns` |
+| `problem`     | noun: something wrong that needs attention                  | Lesson 8 homework | prepared | `The engine has a problem.`                    |
+| `service`     | noun: inspection and maintenance of a vehicle               | Lesson 8 homework | prepared | `The car needs a service.`                     |
+| `busy`        | adjective: having many things to do or many customers       | Lesson 8 homework | prepared | `The garage is busy.`                          |
