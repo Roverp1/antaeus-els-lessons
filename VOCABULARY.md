@@ -67,25 +67,33 @@ was taught, not every dictionary meaning of a spelling.
 
 ## Lesson 5: frequency
 
-| Entry       | Sense and part of speech                      | First introduced | Status     | Notes                                  |
-| ----------- | --------------------------------------------- | ---------------- | ---------- | -------------------------------------- |
+| Entry       | Sense and part of speech                      | First introduced | Status     | Notes                                   |
+| ----------- | --------------------------------------------- | ---------------- | ---------- | --------------------------------------- |
 | `sometimes` | adverb: on some occasions, but not every time | Lesson 5         | introduced | before an action verb: `sometimes uses` |
 
 ## Cumulative practice 2: introduced words
 
-| Entry      | Sense and part of speech                     | First introduced      | Status     | Notes                               |
-| ---------- | -------------------------------------------- | --------------------- | ---------- | ----------------------------------- |
-| `usually`  | adverb: in most situations or on most days   | Cumulative practice 2 | introduced | Level 6; before an action verb       |
-| `weekend`  | noun: Saturday and Sunday                    | Cumulative practice 2 | introduced | Level 6; `on the weekend` in American English |
-| `office`   | noun: a place where people do desk work      | Cumulative practice 2 | introduced | Level 6; `work in an office`         |
-| `reliable` | adjective: working well without many problems | Cumulative practice 2 | introduced | Level 6; `The car is reliable.`      |
-| `wash`     | verb: clean something with water             | Cumulative practice 2 | introduced | Level 6; `wash the car`              |
+| Entry      | Sense and part of speech                      | First introduced      | Status     | Notes                                         |
+| ---------- | --------------------------------------------- | --------------------- | ---------- | --------------------------------------------- |
+| `usually`  | adverb: in most situations or on most days    | Cumulative practice 2 | introduced | Level 6; before an action verb                |
+| `weekend`  | noun: Saturday and Sunday                     | Cumulative practice 2 | introduced | Level 6; `on the weekend` in American English |
+| `office`   | noun: a place where people do desk work       | Cumulative practice 2 | introduced | Level 6; `work in an office`                  |
+| `reliable` | adjective: working well without many problems | Cumulative practice 2 | introduced | Level 6; `The car is reliable.`               |
+| `wash`     | verb: clean something with water              | Cumulative practice 2 | introduced | Level 6; `wash the car`                       |
 
 ## Lesson 7 reading and homework
 
-| Entry       | Sense and part of speech                              | First introduced | Status   | Notes                                      |
-| ----------- | ----------------------------------------------------- | ---------------- | -------- | ------------------------------------------ |
-| `garage`    | noun: a place where vehicles are stored or repaired   | Lesson 7 homework | prepared | infer from the Lesson 7 reading first      |
-| `customer`  | noun: a person who pays for goods or a service        | Lesson 7 homework | prepared | infer from the Lesson 7 reading first      |
-| `careful`   | adjective: giving attention to avoid errors or danger | Lesson 7 homework | prepared | reading also uses the adverb `carefully`   |
-| `carefully` | adverb: with attention to avoid errors or danger      | Lesson 7 homework | prepared | derived from `careful`                     |
+| Entry       | Sense and part of speech                              | First introduced  | Status     | Notes                                    |
+| ----------- | ----------------------------------------------------- | ----------------- | ---------- | ---------------------------------------- |
+| `garage`    | noun: a place where vehicles are stored or repaired   | Lesson 7 homework | introduced | infer from the Lesson 7 reading first    |
+| `customer`  | noun: a person who pays for goods or a service        | Lesson 7 homework | introduced | infer from the Lesson 7 reading first    |
+| `careful`   | adjective: giving attention to avoid errors or danger | Lesson 7 homework | introduced | reading also uses the adverb `carefully` |
+| `carefully` | adverb: with attention to avoid errors or danger      | Lesson 7 homework | introduced | derived from `careful`                   |
+
+## Lesson 8 conversation and homework
+
+| Entry         | Sense and part of speech                                    | First introduced  | Status   | Notes                                          |
+| ------------- | ----------------------------------------------------------- | ----------------- | -------- | ---------------------------------------------- |
+| `appointment` | noun: an arranged time to meet someone or receive a service | Lesson 8 homework | prepared | `make/have an appointment`; garage context     |
+| `available`   | adjective: free and able to help or be used                 | Lesson 8 homework | prepared | `The mechanic is available at four.`           |
+| `owner`       | noun: a person who owns something                           | Lesson 8 homework | prepared | `car owner`; reading also uses the verb `owns` |
