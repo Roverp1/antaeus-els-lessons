@@ -4,14 +4,16 @@ Student-specific state and course conventions. Read this file before creating or
 
 ## Current course state
 
-- Six lessons are complete.
+- Seven lessons are complete.
 - Lesson 3 taught present `to be`: positive, negative, question, and short-answer forms. Its material is archived under `legacy/`.
 - Lesson 4 (`lessons/0002-review-and-present-simple-positive.html`) taught positive action verbs and the distinction between `to be` and action verbs.
 - Lesson 5 (`lessons/0003-subjects-and-present-simple-negatives.html`) taught complete subjects and present-simple action negatives. The full lesson was completed, including the reading section and `sometimes`.
 - `exercises/0002-cumulative-present-simple-practice.html` Levels 1-4 were assigned as homework. Completion and accuracy are not verified yet.
 - Lesson 6 (`lessons/0004-present-simple-action-questions.html`) was completed and went generally well. The student still had some difficulty deciding between `to be` and an action verb.
 - `exercises/0003-present-simple-question-practice.html` is the graded practice page for Lesson 6.
-- Lesson 7 should repair `to be or action verb` selection and teach third-person positive spelling (`-s`, `-es`, `-ies`).
+- Lesson 7 (`lessons/0005-to-be-action-verb-and-third-person-spelling.html`) was completed and received fairly well. The student still hesitates when choosing between `to be` and an action verb, but the distinction is improving. Extended third-person spelling (`-s`, `-es`, `-ies`) was easy during the lesson.
+- `exercises/0004-third-person-present-simple-practice.html` is the graded homework page for Lesson 7.
+- Lesson 8 should teach action-verb short answers while consolidating mixed `to be` and action-verb questions. Short answers must not become a copying exercise: the student should often construct the question before answering it.
 
 ## Student
 
@@ -71,13 +73,12 @@ Student-specific state and course conventions. Read this file before creating or
 
 ## Course sequence
 
-1. Repair `to be or action verb` selection and teach third-person positive spelling.
-2. Consolidate action questions and teach action short answers only if delayed retrieval is stable.
-3. Teach `there is / there are`.
-4. Teach singular/plural nouns and `a/an`.
-5. Teach countable and uncountable nouns.
-6. Teach `some` and `any`.
-7. Teach `many` and `a lot of`.
+1. Consolidate mixed questions and teach action-verb short answers behind a delayed-retrieval gate.
+2. Teach `there is / there are`.
+3. Teach singular/plural nouns and `a/an`.
+4. Teach countable and uncountable nouns.
+5. Teach `some` and `any`.
+6. Teach `many` and `a lot of`.
 
 The sequence is conditional on evidence. Do not treat coverage as learning.
 
