@@ -458,6 +458,28 @@ table td {
   color: var(--muted);
 }
 
+.compact-steps li {
+  margin: 0.35rem 0;
+}
+
+.compact-example {
+  margin: 0.9rem 0;
+  padding-block: 0.65rem;
+}
+
+.compact-example p {
+  margin: 0.25rem 0;
+}
+
+.builder-table {
+  font-size: 0.9rem;
+}
+
+.builder-table td[rowspan] {
+  background: var(--blue-pale);
+  vertical-align: top;
+}
+
 @media (max-width: 960px) {
   .review-card.correct { grid-column: span 12; }
   .review-card.off-task,
@@ -509,6 +531,11 @@ table td {
 }
 
 @media print {
+  @page quick-reference {
+    size: A4 landscape;
+    margin: 8mm;
+  }
+
   :root { --pico-font-size: 11pt; }
 
   body {
@@ -531,4 +558,30 @@ table td {
   .review-card,
   .tense-map,
   table { break-inside: avoid; }
+
+  .quick-reference {
+    page: quick-reference;
+    padding: 0;
+    font-size: 8.5pt;
+    line-height: 1.35;
+  }
+
+  .quick-reference .lesson-header { padding-bottom: 0.6rem; }
+  .quick-reference h1 { margin-block: 0.2rem; font-size: 21pt; }
+  .quick-reference h2 { margin-top: 0.7rem; padding-bottom: 0.3rem; font-size: 12pt; }
+  .quick-reference p { margin-block: 0.3rem; }
+  .quick-reference .goal { margin-block: 0.5rem; padding-block: 0.45rem; }
+  .quick-reference table { margin-block: 0.5rem; font-size: 7.6pt; }
+  .quick-reference table td,
+  .quick-reference table th { padding: 0.3rem 0.4rem; }
+  .quick-reference .practice-list { margin-block: 0.25rem; }
+  .quick-reference .practice-list li { margin-block: 0.15rem; }
+  .quick-reference .compact-example {
+    display: inline-block;
+    width: 48%;
+    margin: 0.35rem 1% 0.35rem 0;
+    padding: 0.35rem 0.55rem;
+    vertical-align: top;
+  }
+  .quick-reference .comparison { break-inside: avoid; }
 }
