@@ -4,7 +4,7 @@ Student-specific state and course conventions. Read this file before creating or
 
 ## Current course state
 
-- Seven lessons are complete.
+- Eight lessons are complete.
 - Lesson 3 taught present `to be`: positive, negative, question, and short-answer forms. Its material is archived under `legacy/`.
 - Lesson 4 (`lessons/0002-review-and-present-simple-positive.html`) taught positive action verbs and the distinction between `to be` and action verbs.
 - Lesson 5 (`lessons/0003-subjects-and-present-simple-negatives.html`) taught complete subjects and present-simple action negatives. The full lesson was completed, including the reading section and `sometimes`.
@@ -13,7 +13,10 @@ Student-specific state and course conventions. Read this file before creating or
 - `exercises/0003-present-simple-question-practice.html` is the graded practice page for Lesson 6.
 - Lesson 7 (`lessons/0005-to-be-action-verb-and-third-person-spelling.html`) was completed and received fairly well. The student still hesitates when choosing between `to be` and an action verb, but the distinction is improving. Extended third-person spelling (`-s`, `-es`, `-ies`) was easy during the lesson.
 - `exercises/0004-third-person-present-simple-practice.html` is the graded homework page for Lesson 7.
-- Lesson 8 should teach action-verb short answers while consolidating mixed `to be` and action-verb questions. Short answers must not become a copying exercise: the student should often construct the question before answering it.
+- Lesson 8 (`lessons/0006-short-answers-and-mixed-questions.html`) taught action-verb short answers while consolidating mixed `to be` and action-verb questions.
+- `exercises/0005-short-answers-and-mixed-questions-practice.html` was completed and self-checked. Levels 1-5 were almost entirely correct before checking; the later reading and personal-question levels required more correction.
+- Lesson 8 showed that the student can usually identify sentence type and verb type when prompted, but can lose those decisions while selecting and arranging the complete grammar form.
+- Lesson 9 should add no grammar. It should teach procedural use of a concise on-screen sentence-builder table before `there is / there are` is introduced.
 
 ## Student
 
@@ -24,13 +27,15 @@ Student-specific state and course conventions. Read this file before creating or
 - `to be` with pronoun subjects is relatively stable.
 - Multiword subjects such as `your parents` and `the tires` need continued retrieval.
 - He can apply individual rules during focused practice, but mixing similar systems can overload him.
+- He loses handwritten notes in his notebook and prefers to consult grammar on screen. Quick references must be concise, easy to find, and linked from current materials.
+- Lessons take place roughly twice per week. There is no known date for a school quantifier test.
 
 ## Lesson 5 evidence
 
 - Complete-subject identification and action negatives were easy during focused practice.
 - After `to be` and action negatives were mixed, his performance collapsed globally.
 - During the collapse, he temporarily could not identify a complete subject or replace it with a pronoun, even though both had been easy earlier.
-- Lesson 6 must check delayed retrieval before interpreting this as forgotten learning.
+- This led to the delayed-retrieval gate used in Lesson 6.
 
 ## Teaching method
 
@@ -47,6 +52,8 @@ Student-specific state and course conventions. Read this file before creating or
 - Put difficult new or integrated grammar before end-of-lesson fatigue.
 - Use a performance gate before adding a new system. Prepared material does not have to be completed.
 - If performance suddenly collapses, stop adding grammar and switch to familiar oral or reading work instead of repeating the full explanation.
+- Use this lesson structure by default: delayed retrieval -> one small language point with controlled practice -> familiar-grammar reading or listening -> guided speaking or writing -> no-notes exit check.
+- Until sentence construction is stable, give grammar and controlled practice most of the lesson time. Input should reinforce the grammar rather than introduce an unfamiliar grammar system.
 
 ## Exercise design
 
@@ -58,6 +65,8 @@ Student-specific state and course conventions. Read this file before creating or
 - During read-aloud work, let him finish the sentence, correct target grammar, then address pronunciation.
 - Mixed exercises must separate decisions when needed: meaning -> grammar lane -> subject agreement -> verb form -> complete sentence.
 - Use delayed no-notes retrieval at the beginning of the following lesson to judge storage strength.
+- In self-checked homework, `+` means the student's first answer matched the key and `-` means it was corrected after looking. Treat these marks as useful reports, not verified assessment; spot-check the work.
+- Future homework answer keys show representative samples for roughly 30-40% of each level. Five presses on the homework meta line unlock all answers for the tutor without opening the answer sections.
 
 ## Language policy
 
@@ -73,8 +82,8 @@ Student-specific state and course conventions. Read this file before creating or
 
 ## Course sequence
 
-1. Consolidate mixed questions and teach action-verb short answers behind a delayed-retrieval gate.
-2. Teach `there is / there are`.
+1. Teach reliable use of the present-simple sentence-builder table without adding grammar.
+2. Teach `there is / there are` after delayed mixed retrieval is stable.
 3. Teach singular/plural nouns and `a/an`.
 4. Teach countable and uncountable nouns.
 5. Teach `some` and `any`.
@@ -93,6 +102,9 @@ The sequence is conditional on evidence. Do not treat coverage as learning.
 - Materials must remain responsive and print-friendly. Use `<details>` for answer keys and `.blank-line` for printable writing spaces.
 - Legacy materials are isolated under `legacy/`. Do not use their styling as a template.
 - The pre-commit hook regenerates `index.html` from active lessons, exercises, and references.
+- Every lesson has a separate graded homework page and links to it.
+- Future homework pages load `assets/homework-answers.js` and use partial answer keys. Do not retrofit completed homework unless requested.
+- `reference/0001-present-simple-sentence-builder.html` is the canonical quick reference for the current grammar-selection process.
 
 ## New-chat checklist
 

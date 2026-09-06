@@ -4,10 +4,10 @@
 The student faces weak high-school English lessons and was told he must master quantifiers (`some`, `any`, `many`, `a lot of`) in the next school year. He cannot yet construct basic English sentences reliably. The goal is to make the school requirement easy by first building subject + verb, `to be`, present-simple actions, `there is/are`, plurals, and countability.
 
 ## Success looks like
-- Constructs basic positive/negative/question sentences in present simple without dropping the subject
-- Uses "to be" (am/is/are) fluently in all four forms — positive, negative, question, short answer
+- Constructs basic positive/negative/question sentences and short answers in present simple without dropping the subject
+- Uses "to be" (am/is/are) fluently in positive, negative, question, and short-answer forms
 - Uses "there is / there are" with plural nouns correctly
-- Handles some/any/many/a lot of as a short, easy lesson once the above is solid
+- Uses `some`, `any`, `many`, and `a lot of` after the sentence and noun foundations are stable
 
 ## Constraints
 - Russian L1; main error is subject-dropping (Russian allows it, English doesn't)

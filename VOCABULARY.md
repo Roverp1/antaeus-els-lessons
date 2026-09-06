@@ -6,6 +6,7 @@ was taught, not every dictionary meaning of a spelling.
 ## Status
 
 - `prepared`: appears in material, but has not been taught or assigned
+- `assigned`: appears in assigned homework, but completion is not verified
 - `introduced`: presented in a lesson; no independent-use evidence yet
 - `practiced`: used in controlled practice
 - `recalled independently`: used correctly without prompts
@@ -94,9 +95,16 @@ was taught, not every dictionary meaning of a spelling.
 
 | Entry         | Sense and part of speech                                    | First introduced  | Status   | Notes                                          |
 | ------------- | ----------------------------------------------------------- | ----------------- | -------- | ---------------------------------------------- |
-| `appointment` | noun: an arranged time to meet someone or receive a service | Lesson 8 homework | prepared | `make/have an appointment`; garage context     |
-| `available`   | adjective: free and able to help or be used                 | Lesson 8 homework | prepared | `The mechanic is available at four.`           |
-| `owner`       | noun: a person who owns something                           | Lesson 8 homework | prepared | `car owner`; reading also uses the verb `owns` |
-| `problem`     | noun: something wrong that needs attention                  | Lesson 8 homework | prepared | `The engine has a problem.`                    |
-| `service`     | noun: inspection and maintenance of a vehicle               | Lesson 8 homework | prepared | `The car needs a service.`                     |
-| `busy`        | adjective: having many things to do or many customers       | Lesson 8 homework | prepared | `The garage is busy.`                          |
+| `appointment` | noun: an arranged time to meet someone or receive a service | Lesson 8 homework | introduced | incorrect before checking; retrieve again      |
+| `available`   | adjective: free and able to help or be used                 | Lesson 8 homework | introduced | incorrect before checking; retrieve again      |
+| `owner`       | noun: a person who owns something                           | Lesson 8 homework | practiced | correct in controlled vocabulary practice      |
+| `problem`     | noun: something wrong that needs attention                  | Lesson 8 homework | practiced | automotive sense correct in vocabulary practice |
+| `service`     | noun: inspection and maintenance of a vehicle               | Lesson 8 homework | introduced | incorrect before checking; retrieve again      |
+| `busy`        | adjective: having many things to do or many customers       | Lesson 8 homework | introduced | incorrect before checking; retrieve again      |
+
+## Lesson 9 reading and homework
+
+| Entry    | Sense and part of speech                  | First introduced  | Status   | Notes                                      |
+| -------- | ----------------------------------------- | ----------------- | -------- | ------------------------------------------ |
+| `ready`  | adjective: prepared or finished for use   | Lesson 9 homework | prepared | infer from the Lesson 9 garage reading     |
+| `repair` | verb: fix something damaged or not working | Lesson 9 homework | prepared | garage context; action-verb grammar pattern |
