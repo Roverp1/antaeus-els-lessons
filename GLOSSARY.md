@@ -63,3 +63,19 @@ _Avoid_: Query.
 **Short answer**:
 A brief grammatical answer that repeats the necessary verb: `Yes, it is.` or `No, it is not.`
 _Avoid_: A bare `yes` or `no` when practicing the grammar form.
+
+## Nouns and articles
+
+**Noun**:
+A word that names a person, place, thing, or idea, such as `mechanic`, `garage`, `car`, or `problem`.
+
+**Singular noun**:
+A noun form that refers to one person or thing: `a car`, `an engine`.
+_Avoid_: One noun. A noun can be singular even when a number is not written.
+
+**Plural noun**:
+A noun form that refers to more than one person or thing: `two cars`, `three engines`.
+_Avoid_: Many noun. Use the grammar term `plural`.
+
+**Article**:
+A small word before a noun. `A` and `an` introduce one non-specific person or thing that can be counted; choose between them by the following sound.

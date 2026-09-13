@@ -10,6 +10,12 @@ Trusted sources for grammar decisions and lesson design. English File provides t
   Reference for grammar decisions when the elementary syllabus is too compressed. Use for form and usage checks, not as the student lesson text.
 - [Cambridge Dictionary](https://dictionary.cambridge.org/)
   Check every new word's sense, level, pronunciation, and natural examples before adding it to `VOCABULARY.md`.
+- [Cambridge Grammar: A/an and the](https://dictionary.cambridge.org/grammar/british-grammar/a-an-and-the)
+  Reference for `a/an` before singular countable nouns and the sound-based choice between the two forms.
+- [Cambridge Grammar: Nouns: form](https://dictionary.cambridge.org/grammar/british-grammar/nouns-form)
+  Reference for singular/plural meaning and regular plural formation.
+- [Cambridge Grammar: There is, there's and there are](https://dictionary.cambridge.org/grammar/british-grammar/there-is-there-s-and-there-are)
+  Reference for the next course step: expressing existence with singular and plural noun phrases.
 - [CAST: Clarify vocabulary, symbols, and language structures](https://udlguidelines.cast.org/representation/language-symbols/vocabulary-symbols-structure/)
   Supports explicit sentence chunking, complete-subject marking, and making grammar relationships visible.
 - [CAST: Build fluencies with graduated support](https://udlguidelines.cast.org/action-expression/expression-communication/fluencies-practice-performance/)

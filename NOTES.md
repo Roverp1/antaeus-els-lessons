@@ -4,7 +4,7 @@ Student-specific state and course conventions. Read this file before creating or
 
 ## Current course state
 
-- Eight lessons are complete.
+- Nine lessons are complete.
 - Lesson 3 taught present `to be`: positive, negative, question, and short-answer forms. Its material is archived under `legacy/`.
 - Lesson 4 (`lessons/0002-review-and-present-simple-positive.html`) taught positive action verbs and the distinction between `to be` and action verbs.
 - Lesson 5 (`lessons/0003-subjects-and-present-simple-negatives.html`) taught complete subjects and present-simple action negatives. The full lesson was completed, including the reading section and `sometimes`.
@@ -16,7 +16,9 @@ Student-specific state and course conventions. Read this file before creating or
 - Lesson 8 (`lessons/0006-short-answers-and-mixed-questions.html`) taught action-verb short answers while consolidating mixed `to be` and action-verb questions.
 - `exercises/0005-short-answers-and-mixed-questions-practice.html` was completed and self-checked. Levels 1-5 were almost entirely correct before checking; the later reading and personal-question levels required more correction.
 - Lesson 8 showed that the student can usually identify sentence type and verb type when prompted, but can lose those decisions while selecting and arranging the complete grammar form.
-- Lesson 9 should add no grammar. It should teach procedural use of a concise on-screen sentence-builder table before `there is / there are` is introduced.
+- Lesson 9 (`lessons/0007-present-simple-sentence-builder.html`) taught procedural use of the digital sentence-builder table. The initial no-table check still caused difficulty, but after the decision algorithm was understood, table-supported construction reached 90-100% first-attempt accuracy.
+- Lesson 9 homework Levels 0-5 were assigned and completed; Level 6 was deliberately not assigned. Most final sentence forms were correct, but `to be -> they -> negative` was accepted for an action-verb route, `a problems` went unnoticed, and integrated short answers required several pronoun and auxiliary corrections.
+- Lesson 10 should add noun-number grammar rather than repeat a third full present-simple consolidation lesson. It must begin with a short delayed no-table present-simple gate, then teach `a/an + singular noun` versus `number + regular plural noun` before `there is / there are`.
 
 ## Student
 
@@ -29,6 +31,7 @@ Student-specific state and course conventions. Read this file before creating or
 - He can apply individual rules during focused practice, but mixing similar systems can overload him.
 - He loses handwritten notes in his notebook and prefers to consult grammar on screen. Quick references must be concise, easy to find, and linked from current materials.
 - Lessons take place roughly twice per week. There is no known date for a school quantifier test.
+- The student previously memorized a large school vocabulary list and completed its test, but current retention is unverified. Recycle small coherent groups instead of treating the full list as mastered.
 
 ## Lesson 5 evidence
 
@@ -67,24 +70,28 @@ Student-specific state and course conventions. Read this file before creating or
 - Use delayed no-notes retrieval at the beginning of the following lesson to judge storage strength.
 - In self-checked homework, `+` means the student's first answer matched the key and `-` means it was corrected after looking. Treat these marks as useful reports, not verified assessment; spot-check the work.
 - Future homework answer keys show representative samples for roughly 30-40% of each level. Five presses on the homework meta line unlock all answers for the tutor without opening the answer sections.
+- Keep grammar measurement controlled. Do not hide required forms inside a supposedly natural communication task.
+- Replace vague production prompts with bounded communication: provide a situation, purpose, recipient, concrete facts, approximate length, and optional sentence support.
+- Prefer information gaps, form completion, dialogue completion, ordering, and messages built from supplied facts until independent content generation stops obscuring grammar ability.
 
 ## Language policy
 
-- Teach American English. Convert British vocabulary and spelling when introducing words: `tire`, `gas`, `trunk`, `hood`, `truck`, `highway`, `fall`, `elevator`, `turn signals`, `parking lot`.
+- Teach American English for new vocabulary. When recycling the school list, prefer words shared by American and British English; if a British word is needed, preserve the already-taught word without adding a regional contrast unless confusion appears.
 - Grammar terms stay in English. Russian is used for concise glosses and clarification.
 - Every example must be natural, not merely grammatical.
 - Use present simple only for identity, descriptions, routines, habits, facts, and schedules.
 - Introduce a simple useful word such as `sometimes` rather than force known vocabulary into an unnatural sentence.
 - Begin with known vocabulary. Record every new word sense in `VOCABULARY.md`.
-- A dedicated reading may contain two or three inferable new content words without prior explanation. Keep its grammar familiar, test general meaning rather than word definitions, and explain the new words in the homework.
+- A dedicated reading should prioritize natural language. It may contain limited untaught grammar and two or three inferable content words when needed for a coherent text; label unfamiliar forms as input only and assess gist, situation, sequence, or key facts rather than those forms.
+- Do not require full grammatical answers to prove reading comprehension. Use choices, matching, sequencing, or a brief first-language explanation when production would contaminate the result.
 - Avoid unrelated spelling rules, tense contrasts, or unusual meanings while introducing a grammar rule.
 - Cars are a teaching context, not the learning goal.
 
 ## Course sequence
 
-1. Teach reliable use of the present-simple sentence-builder table without adding grammar.
-2. Teach `there is / there are` after delayed mixed retrieval is stable.
-3. Teach singular/plural nouns and `a/an`.
+1. Check delayed present-simple construction, then teach `a/an + singular noun` versus `number + regular plural noun`.
+2. Teach `there is / there are` after delayed noun-number retrieval is stable.
+3. Expand singular/plural noun forms as needed.
 4. Teach countable and uncountable nouns.
 5. Teach `some` and `any`.
 6. Teach `many` and `a lot of`.
