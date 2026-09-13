@@ -73,6 +73,9 @@ Student-specific state and course conventions. Read this file before creating or
 - Keep grammar measurement controlled. Do not hide required forms inside a supposedly natural communication task.
 - Replace vague production prompts with bounded communication: provide a situation, purpose, recipient, concrete facts, approximate length, and optional sentence support.
 - Prefer information gaps, form completion, dialogue completion, ordering, and messages built from supplied facts until independent content generation stops obscuring grammar ability.
+- Bound the task, not the answer. Independent production should specify the situation, recipient, purpose, and approximate length while leaving facts and wording to the student.
+- Sentence frames, supplied facts, and fill-in messages are guided production, not natural production. Never label slot filling as independent communication.
+- Do not require target grammar in natural production. Assess compulsory forms separately, then accept the student's own grammar choices in the open message.
 
 ## Language policy
 
