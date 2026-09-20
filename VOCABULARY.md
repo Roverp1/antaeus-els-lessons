@@ -110,16 +110,16 @@ was taught, not every dictionary meaning of a spelling.
 | `ready`  | adjective: prepared or finished for use     | Lesson 9 homework | practiced | correct in vocabulary and sentence practice |
 | `repair` | verb: fix something damaged or not working | Lesson 9 homework | practiced | correct in vocabulary and sentence practice |
 
-## Lesson 10 prepared school-list words
+## Lesson 10 school-list words
 
-These words were tested at school previously. Their exact senses are reactivated in Lesson 10; prepared status does not claim current retention.
+These words were tested at school previously and reactivated in Lesson 10. The completed homework showed correct meaning recognition and broad controlled use, but plural endings were less reliable when quantity was expressed through the surrounding sentence.
 
 | Entry     | Sense and part of speech                         | First introduced | Status   | Notes                         |
 | --------- | ------------------------------------------------ | ---------------- | -------- | ----------------------------- |
-| `jacket`  | noun: a short coat worn on the upper body        | School list      | prepared | shared American/British usage |
-| `glove`   | noun: a covering for the hand                    | School list      | prepared | shared American/British usage |
-| `earring` | noun: jewelry worn on an ear                     | School list      | prepared | shared American/British usage |
-| `button`  | noun: a small fastener on clothing               | School list      | prepared | shared American/British usage |
+| `jacket`  | noun: a short coat worn on the upper body        | School list      | practiced | meaning and controlled noun forms correct |
+| `glove`   | noun: a covering for the hand                    | School list      | practiced | meaning correct; plural ending missed in a contextual clue |
+| `earring` | noun: jewelry worn on an ear                     | School list      | practiced | meaning and controlled noun forms correct |
+| `button`  | noun: a small fastener on clothing               | School list      | practiced | meaning correct; plural ending missed in a contextual clue |
 
 ## School vocabulary inventory
 

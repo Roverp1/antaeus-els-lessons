@@ -4,7 +4,7 @@ Student-specific state and course conventions. Read this file before creating or
 
 ## Current course state
 
-- Nine lessons are complete.
+- Ten lessons are complete.
 - Lesson 3 taught present `to be`: positive, negative, question, and short-answer forms. Its material is archived under `legacy/`.
 - Lesson 4 (`lessons/0002-review-and-present-simple-positive.html`) taught positive action verbs and the distinction between `to be` and action verbs.
 - Lesson 5 (`lessons/0003-subjects-and-present-simple-negatives.html`) taught complete subjects and present-simple action negatives. The full lesson was completed, including the reading section and `sometimes`.
@@ -18,7 +18,10 @@ Student-specific state and course conventions. Read this file before creating or
 - Lesson 8 showed that the student can usually identify sentence type and verb type when prompted, but can lose those decisions while selecting and arranging the complete grammar form.
 - Lesson 9 (`lessons/0007-present-simple-sentence-builder.html`) taught procedural use of the digital sentence-builder table. The initial no-table check still caused difficulty, but after the decision algorithm was understood, table-supported construction reached 90-100% first-attempt accuracy.
 - Lesson 9 homework Levels 0-5 were assigned and completed; Level 6 was deliberately not assigned. Most final sentence forms were correct, but `to be -> they -> negative` was accepted for an action-verb route, `a problems` went unnoticed, and integrated short answers required several pronoun and auxiliary corrections.
-- Lesson 10 should add noun-number grammar rather than repeat a third full present-simple consolidation lesson. It must begin with a short delayed no-table present-simple gate, then teach `a/an + singular noun` versus `number + regular plural noun` before `there is / there are`.
+- Lesson 10 (`lessons/0008-one-or-more-than-one.html`) taught `a/an + singular noun` versus `number + regular plural noun`. Mixed present-simple construction was difficult at the start, especially choosing the verb lane and complete form, but confidence and reliability improved during the lesson.
+- Lesson 10 homework showed strong performance with explicit `one` and number cues. The vocabulary answers `glove` and `button` missed plural endings when quantity was carried by the surrounding meaning. Crossed-out corrections have mixed or unknown sources and are not evidence of independent retrieval. Reading comprehension was 5/5.
+- The Lesson 10 natural message communicated successfully. Correct `Do you can check it?` through the fixed phrase `Can you check it?` without teaching or assessing modal-question grammar yet.
+- Lesson 11 (`lessons/0009-there-is-there-are-positive.html`) and its homework are prepared, not taught. It conditionally introduces positive full forms of `there is / there are` after separate delayed gates for present-simple construction and noun number.
 
 ## Student
 
@@ -92,8 +95,8 @@ Student-specific state and course conventions. Read this file before creating or
 
 ## Course sequence
 
-1. Check delayed present-simple construction, then teach `a/an + singular noun` versus `number + regular plural noun`.
-2. Teach `there is / there are` after delayed noun-number retrieval is stable.
+1. Check delayed present-simple construction and noun number, then teach positive `there is / there are` if both are stable.
+2. Check delayed positive `there is / there are`, then add negative and question forms in small steps.
 3. Expand singular/plural noun forms as needed.
 4. Teach countable and uncountable nouns.
 5. Teach `some` and `any`.
