@@ -121,6 +121,19 @@ These words were tested at school previously and reactivated in Lesson 10. The c
 | `earring` | noun: jewelry worn on an ear                     | School list      | practiced | meaning and controlled noun forms correct |
 | `button`  | noun: a small fastener on clothing               | School list      | practiced | meaning correct; plural ending missed in a contextual clue |
 
+## Lesson 11 prepared school-list words
+
+These school-tested words are prepared for reactivation across the Lesson 11 homework. Their meanings are supplied so vocabulary recall does not obscure the grammar target. Prepared status does not claim new evidence of retention.
+
+| Entry      | Sense and part of speech                             | First introduced | Status   | Notes                                      |
+| ---------- | ---------------------------------------------------- | ---------------- | -------- | ------------------------------------------ |
+| `handbag`  | noun: a small bag for carrying personal items        | School list      | prepared | shared American/British usage              |
+| `scarf`    | noun: cloth worn around the neck                      | School list      | prepared | accessory sense                            |
+| `ring`     | noun: jewelry worn around a finger                    | School list      | prepared | regular plural `rings`                     |
+| `necklace` | noun: jewelry worn around the neck                    | School list      | prepared | regular plural `necklaces`                 |
+| `helpful`  | adjective: willing to help                            | School list      | prepared | used to describe a mechanic                |
+| `honest`   | adjective: truthful                                   | School list      | prepared | used to describe an owner or customer      |
+
 ## School vocabulary inventory
 
 All entries below have status `school-tested`: the test has passed, but current retention and the exact school-taught sense are unverified. Slash-separated source pairs are retained here for traceability and should be tracked separately when reactivated in a course lesson.

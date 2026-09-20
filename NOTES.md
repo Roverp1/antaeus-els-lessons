@@ -22,6 +22,7 @@ Student-specific state and course conventions. Read this file before creating or
 - Lesson 10 homework showed strong performance with explicit `one` and number cues. The vocabulary answers `glove` and `button` missed plural endings when quantity was carried by the surrounding meaning. Crossed-out corrections have mixed or unknown sources and are not evidence of independent retrieval. Reading comprehension was 5/5.
 - The Lesson 10 natural message communicated successfully. Correct `Do you can check it?` through the fixed phrase `Can you check it?` without teaching or assessing modal-question grammar yet.
 - Lesson 11 (`lessons/0009-there-is-there-are-positive.html`) and its homework are prepared, not taught. It conditionally introduces positive full forms of `there is / there are` after separate delayed gates for present-simple construction and noun number.
+- Lesson 11 homework begins with focused `there is / there are` production, then layers noun number, familiar present-simple systems, diagnosis, a source-adapted cloze, comprehension, and independent communication. It reactivates a small group of school words without treating them as mastered.
 
 ## Student
 
@@ -73,6 +74,8 @@ Student-specific state and course conventions. Read this file before creating or
 - Use delayed no-notes retrieval at the beginning of the following lesson to judge storage strength.
 - In self-checked homework, `+` means the student's first answer matched the key and `-` means it was corrected after looking. Treat these marks as useful reports, not verified assessment; spot-check the work.
 - Future homework answer keys show representative samples for roughly 30-40% of each level. Five presses on the homework meta line unlock all answers for the tutor without opening the answer sections.
+- Homework should test the newly introduced grammar first with increasing production demands, then interleave earlier grammar. Keep tutor-side recovery routing out of the homework page.
+- For a natural cloze, write and humanize the complete text first. Remove only forms the student has already learned; leave later grammar visible and unassessed, then test comprehension separately.
 - Keep grammar measurement controlled. Do not hide required forms inside a supposedly natural communication task.
 - Replace vague production prompts with bounded communication: provide a situation, purpose, recipient, concrete facts, approximate length, and optional sentence support.
 - Prefer information gaps, form completion, dialogue completion, ordering, and messages built from supplied facts until independent content generation stops obscuring grammar ability.
