@@ -121,18 +121,25 @@ These words were tested at school previously and reactivated in Lesson 10. The c
 | `earring` | noun: jewelry worn on an ear                     | School list      | practiced | meaning and controlled noun forms correct |
 | `button`  | noun: a small fastener on clothing               | School list      | practiced | meaning correct; plural ending missed in a contextual clue |
 
-## Lesson 11 prepared school-list words
+## Lesson 11 school-list words
 
-These school-tested words are prepared for reactivation across the Lesson 11 homework. Their meanings are supplied so vocabulary recall does not obscure the grammar target. Prepared status does not claim new evidence of retention.
+These school-tested words appeared with their meanings in the completed Lesson 11 homework. The student used several in controlled sentences; none was checked for independent meaning recall.
 
 | Entry      | Sense and part of speech                             | First introduced | Status   | Notes                                      |
 | ---------- | ---------------------------------------------------- | ---------------- | -------- | ------------------------------------------ |
-| `handbag`  | noun: a small bag for carrying personal items        | School list      | prepared | shared American/British usage              |
-| `scarf`    | noun: cloth worn around the neck                      | School list      | prepared | accessory sense                            |
-| `ring`     | noun: jewelry worn around a finger                    | School list      | prepared | regular plural `rings`                     |
-| `necklace` | noun: jewelry worn around the neck                    | School list      | prepared | regular plural `necklaces`                 |
-| `helpful`  | adjective: willing to help                            | School list      | prepared | used to describe a mechanic                |
-| `honest`   | adjective: truthful                                   | School list      | prepared | used to describe an owner or customer      |
+| `handbag`  | noun: a small bag for carrying personal items        | School list      | practiced | used in controlled `there is` sentences    |
+| `scarf`    | noun: cloth worn around the neck                      | School list      | practiced | used in controlled `there is` sentences    |
+| `ring`     | noun: jewelry worn around a finger                    | School list      | practiced | `rings` formed correctly in context        |
+| `necklace` | noun: jewelry worn around the neck                    | School list      | practiced | `necklaces` formed correctly in context    |
+| `helpful`  | adjective: willing to help                            | School list      | practiced | used in a supplied sentence about Mia      |
+| `honest`   | adjective: truthful                                   | School list      | practiced | recognized a correct supplied sentence     |
+
+## Useful words from the Lesson 11 message and reading
+
+| Entry     | Sense and part of speech                                | First introduced  | Status                  | Notes                                      |
+| --------- | ------------------------------------------------------- | ----------------- | ----------------------- | ------------------------------------------ |
+| `bag`     | noun: a container for carrying small things            | Lesson 11 homework | introduced              | appeared in the reading; reused in Lesson 12 |
+| `pick up` | fixed phrase: collect a person or item from a place    | Lesson 11 homework | recalled independently | student used it for collecting a car; do not teach a phrasal-verb system |
 
 ## School vocabulary inventory
 
