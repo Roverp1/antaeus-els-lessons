@@ -4,7 +4,7 @@ Student-specific state and course conventions. Read this file before creating or
 
 ## Current course state
 
-- Ten lessons are complete.
+- Eleven lessons are complete.
 - Lesson 3 taught present `to be`: positive, negative, question, and short-answer forms. Its material is archived under `legacy/`.
 - Lesson 4 (`lessons/0002-review-and-present-simple-positive.html`) taught positive action verbs and the distinction between `to be` and action verbs.
 - Lesson 5 (`lessons/0003-subjects-and-present-simple-negatives.html`) taught complete subjects and present-simple action negatives. The full lesson was completed, including the reading section and `sometimes`.
@@ -21,8 +21,9 @@ Student-specific state and course conventions. Read this file before creating or
 - Lesson 10 (`lessons/0008-one-or-more-than-one.html`) taught `a/an + singular noun` versus `number + regular plural noun`. Mixed present-simple construction was difficult at the start, especially choosing the verb lane and complete form, but confidence and reliability improved during the lesson.
 - Lesson 10 homework showed strong performance with explicit `one` and number cues. The vocabulary answers `glove` and `button` missed plural endings when quantity was carried by the surrounding meaning. Crossed-out corrections have mixed or unknown sources and are not evidence of independent retrieval. Reading comprehension was 5/5.
 - The Lesson 10 natural message communicated successfully. Correct `Do you can check it?` through the fixed phrase `Can you check it?` without teaching or assessing modal-question grammar yet.
-- Lesson 11 (`lessons/0009-there-is-there-are-positive.html`) and its homework are prepared, not taught. It conditionally introduces positive full forms of `there is / there are` after separate delayed gates for present-simple construction and noun number.
-- Lesson 11 homework begins with focused `there is / there are` production, then layers noun number, familiar present-simple systems, diagnosis, a source-adapted cloze, comprehension, and independent communication. It reactivates a small group of school words without treating them as mastered.
+- Lesson 11 (`lessons/0009-there-is-there-are-positive.html`) was completed. The tutor reports around 80% first-attempt success during the lesson and says it was not very difficult. The completed homework's final answers match the key across the controlled work and reading; first-attempt homework accuracy and reference use are unknown.
+- The Lesson 11 independent message communicates clearly but does not use `there is / there are`; open writing does not establish independent retrieval of that form. Its split after `10 am.` is a sentence-fragment/punctuation issue, not a target-grammar error. The school-list words in the homework have controlled-practice evidence, not independent recall evidence.
+- Lesson 12 (`lessons/0010-there-is-there-are-negatives-and-questions.html`) and its homework (`exercises/0009-there-is-there-are-check-and-report-practice.html`) are prepared, not taught. They add negative statements, yes/no questions, and short answers with `there is / there are`, then mix familiar sentence systems. Keep the quick reference available whenever the new forms are used. Plural-spelling expansion and countability belong in the following lesson.
 
 ## Student
 
@@ -49,17 +50,17 @@ Student-specific state and course conventions. Read this file before creating or
 - Start lesson pages with homework read-aloud and correction.
 - Start every new topic by explaining why it is needed and what communicative job it performs.
 - Show the complete grammar map, then build the student's handwritten version one row at a time.
-- For each rule: explain meaning, show one small card, solve one example together, ask the student to explain it, hide the card, reconstruct the row from memory, correct immediately, practice the rule, then finish with one no-card item.
+- For each new rule: explain meaning, show one small card, solve one example together, ask the student to explain it, and practice with the card available. Do not require a no-card reconstruction or no-reference test of new grammar during the lesson.
 - Handwriting supports encoding, but do not make him copy long paragraphs or a large table before understanding it.
 - Use full forms before contractions: `am not`, `is not`, `are not`, `do not`, `does not`.
-- Keep scaffolds visible until he succeeds and remove them gradually.
+- Keep the reference sheet available for all practice and homework with newly introduced grammar. In a later lesson, use a brief delayed no-reference check to judge retention before adding the next rule.
 - Do not add TTS or other accessibility features without evidence that they solve a reported barrier.
 - Do not put timing labels in student-facing lesson sections.
 - Do not build scheduled breaks into lessons.
 - Put difficult new or integrated grammar before end-of-lesson fatigue.
 - Use a performance gate before adding a new system. Prepared material does not have to be completed.
 - If performance suddenly collapses, stop adding grammar and switch to familiar oral or reading work instead of repeating the full explanation.
-- Use this lesson structure by default: delayed retrieval -> one small language point with controlled practice -> familiar-grammar reading or listening -> guided speaking or writing -> no-notes exit check.
+- Use this lesson structure by default: brief no-reference retrieval of earlier grammar -> a bounded new language point with supported practice -> familiar-grammar reading or listening -> guided speaking or writing -> supported closing application. Only previously learned grammar belongs in a no-reference check.
 - Until sentence construction is stable, give grammar and controlled practice most of the lesson time. Input should reinforce the grammar rather than introduce an unfamiliar grammar system.
 
 ## Exercise design
@@ -71,7 +72,7 @@ Student-specific state and course conventions. Read this file before creating or
 - Separate grammar assessment from spelling, punctuation, and pronunciation.
 - During read-aloud work, let him finish the sentence, correct target grammar, then address pronunciation.
 - Mixed exercises must separate decisions when needed: meaning -> grammar lane -> subject agreement -> verb form -> complete sentence.
-- Use delayed no-notes retrieval at the beginning of the following lesson to judge storage strength.
+- Use brief delayed no-reference retrieval of earlier grammar at the beginning of the following lesson to judge storage strength. Do not test newly taught grammar without its reference sheet in the same lesson or in its homework.
 - In self-checked homework, `+` means the student's first answer matched the key and `-` means it was corrected after looking. Treat these marks as useful reports, not verified assessment; spot-check the work.
 - Future homework answer keys show representative samples for roughly 30-40% of each level. Five presses on the homework meta line unlock all answers for the tutor without opening the answer sections.
 - Homework should test the newly introduced grammar first with increasing production demands, then interleave earlier grammar. Keep tutor-side recovery routing out of the homework page.
@@ -99,11 +100,10 @@ Student-specific state and course conventions. Read this file before creating or
 ## Course sequence
 
 1. Check delayed present-simple construction and noun number, then teach positive `there is / there are` if both are stable.
-2. Check delayed positive `there is / there are`, then add negative and question forms in small steps.
-3. Expand singular/plural noun forms as needed.
-4. Teach countable and uncountable nouns.
-5. Teach `some` and `any`.
-6. Teach `many` and `a lot of`.
+2. Briefly check delayed positive `there is / there are`, then teach negatives, questions, and short answers with supported practice and familiar-grammar mixing.
+3. Expand only a small set of singular/plural noun forms alongside countable and uncountable nouns.
+4. Teach `some` and `any`.
+5. Teach `many` and `a lot of`.
 
 The sequence is conditional on evidence. Do not treat coverage as learning.
 

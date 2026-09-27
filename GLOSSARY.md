@@ -20,6 +20,10 @@ _Avoid_: Shortcut, pointer.
 A complete unit with a subject and a verb: `My brother works at home.` A group missing either one is a fragment, not a sentence.
 _Avoid_: Phrase. A phrase does not contain a complete subject-verb structure.
 
+**`there is / there are`**:
+A pattern for reporting or asking whether people or things are present: `There is a scarf in the car.` / `Are there two rings in the office?` Match `is` or `are` to the singular or plural noun, including after `no`.
+_Avoid_: Treating the place (`in the car`) as the word that controls `is` or `are`.
+
 ## Verbs
 
 **Verb**:
@@ -53,7 +57,7 @@ A sentence that states information without making it negative: `The car is new.`
 _Avoid_: Plus sentence.
 
 **Negative sentence**:
-A sentence containing `not` that says something is not true: `The car is not new.` or `My brother does not drive to work.`
+A sentence that says something is not true or is absent: `The car is not new.` / `There is no scarf in the car.`
 _Avoid_: Minus sentence.
 
 **Question**:

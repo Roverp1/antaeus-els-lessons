@@ -15,7 +15,11 @@ Trusted sources for grammar decisions and lesson design. English File provides t
 - [Cambridge Grammar: Nouns: form](https://dictionary.cambridge.org/grammar/british-grammar/nouns-form)
   Reference for singular/plural meaning and regular plural formation.
 - [Cambridge Grammar: There is, there's and there are](https://dictionary.cambridge.org/grammar/british-grammar/there-is-there-s-and-there-are)
-  Reference for the next course step: expressing existence with singular and plural noun phrases.
+  Reference for expressing existence with singular and plural noun phrases.
+- [Cambridge Grammar: No, none and none of](https://dictionary.cambridge.org/grammar/british-grammar/no-none-and-none-of)
+  Reference for `no + noun` when stating that something is absent; Lesson 12 uses only this small pattern.
+- [Cambridge Grammar: Questions: yes-no questions](https://dictionary.cambridge.org/grammar/british-grammar/questions-yes-no-questions-are-you-feeling-cold)
+  Reference for the `be`-first question order, extended to `Is there ...? / Are there ...?`.
 - [CAST: Clarify vocabulary, symbols, and language structures](https://udlguidelines.cast.org/representation/language-symbols/vocabulary-symbols-structure/)
   Supports explicit sentence chunking, complete-subject marking, and making grammar relationships visible.
 - [CAST: Build fluencies with graduated support](https://udlguidelines.cast.org/action-expression/expression-communication/fluencies-practice-performance/)
@@ -25,7 +29,7 @@ Trusted sources for grammar decisions and lesson design. English File provides t
 - [CAST: Support multiple ways to perceive information](https://udlguidelines.cast.org/representation/perception/ways-perceive-information/)
   Supports providing durable written structure alongside oral explanation. Do not add a format or tool unless it addresses an observed barrier.
 - [The Learning Scientists: Retrieval practice](https://www.learningscientists.org/blog/2016/6/23-1)
-  Basis for hiding rule cards, reconstructing table rows, delayed no-notes checks, and checking answers after retrieval.
+  Basis for brief delayed no-reference checks of previously learned grammar and checking answers after retrieval. Keep new grammar references available during instruction and homework.
 - [The Learning Scientists: Six strategies for effective learning](https://www.learningscientists.org/blog/2016/8/18-1)
   Overview of spacing, retrieval, interleaving, concrete examples, elaboration, and dual coding. Use these as lesson-design tools, not as student homework.
 - [YouTube: Learn English with Rebecca - `to be` lessons](https://www.youtube.com/results?search_query=learn+english+to+be+verb)
