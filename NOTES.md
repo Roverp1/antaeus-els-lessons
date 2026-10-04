@@ -4,7 +4,7 @@ Student-specific state and course conventions. Read this file before creating or
 
 ## Current course state
 
-- Eleven lessons are complete.
+- Twelve lessons are complete.
 - Lesson 3 taught present `to be`: positive, negative, question, and short-answer forms. Its material is archived under `legacy/`.
 - Lesson 4 (`lessons/0002-review-and-present-simple-positive.html`) taught positive action verbs and the distinction between `to be` and action verbs.
 - Lesson 5 (`lessons/0003-subjects-and-present-simple-negatives.html`) taught complete subjects and present-simple action negatives. The full lesson was completed, including the reading section and `sometimes`.
@@ -23,7 +23,10 @@ Student-specific state and course conventions. Read this file before creating or
 - The Lesson 10 natural message communicated successfully. Correct `Do you can check it?` through the fixed phrase `Can you check it?` without teaching or assessing modal-question grammar yet.
 - Lesson 11 (`lessons/0009-there-is-there-are-positive.html`) was completed. The tutor reports around 80% first-attempt success during the lesson and says it was not very difficult. The completed homework's final answers match the key across the controlled work and reading; first-attempt homework accuracy and reference use are unknown.
 - The Lesson 11 independent message communicates clearly but does not use `there is / there are`; open writing does not establish independent retrieval of that form. Its split after `10 am.` is a sentence-fragment/punctuation issue, not a target-grammar error. The school-list words in the homework have controlled-practice evidence, not independent recall evidence.
-- Lesson 12 (`lessons/0010-there-is-there-are-negatives-and-questions.html`) and its homework (`exercises/0009-there-is-there-are-check-and-report-practice.html`) are prepared, not taught. They add negative statements, yes/no questions, and short answers with `there is / there are`, then mix familiar sentence systems. Keep the quick reference available whenever the new forms are used. Plural-spelling expansion and countability belong in the following lesson.
+- Lesson 12 (`lessons/0010-there-is-there-are-negatives-and-questions.html`) was completed. The tutor reports roughly 90% first-attempt success once the assignments were understood and says the amount of new grammar and difficulty was right. Occasional verb-versus-adjective/noun confusion remains. The reading felt unnatural and needs a source-first workflow.
+- Lesson 12 homework Levels 1-6 were submitted. Final answers in Levels 2, 3, 4, and 6 match the key. Level 1 item 3 gives `is no` for a gap requiring only `no`; the intended negative pattern is clear, but the answer format may have been misunderstood. Level 5 item 2 uses grammatical `Is there a scarf ...?` instead of the requested known-item `Is the scarf ...?`; the other final answers match the key after interpreting the inserted corrections. First-attempt homework accuracy, reference use, and correction sources are unknown. Level 7 reading was not included in the submission.
+- The student says Lesson 12 homework Task 5 was unclear. Demonstrate each unfamiliar response format and separate sentence-job selection from construction before mixed work. Do not count misunderstanding of the assignment as a grammar failure.
+- Lesson 13 (`lessons/0011-countable-and-uncountable-nouns.html`) and its homework (`exercises/0010-countable-and-uncountable-practice.html`) are prepared, not taught. Check delayed Lesson 12 forms, introduce countability with `water`, `oil`, and `money`, then add `boxes` and `batteries` only if supported practice is steady. Keep the new reference open throughout practice and homework.
 
 ## Student
 
@@ -72,6 +75,8 @@ Student-specific state and course conventions. Read this file before creating or
 - Separate grammar assessment from spelling, punctuation, and pronunciation.
 - During read-aloud work, let him finish the sentence, correct target grammar, then address pronunciation.
 - Mixed exercises must separate decisions when needed: meaning -> grammar lane -> subject agreement -> verb form -> complete sentence.
+- Every unfamiliar exercise format needs one worked example, concise Russian clarification, and an explicit response format: a word, a noun phrase, a route label, or a complete sentence. Ask the student to explain the assignment before measuring grammar.
+- The current `action verb` block includes `have` and `need`. Identify the word's role in its sentence; physical movement is not the test for being a verb.
 - Use brief delayed no-reference retrieval of earlier grammar at the beginning of the following lesson to judge storage strength. Do not test newly taught grammar without its reference sheet in the same lesson or in its homework.
 - In self-checked homework, `+` means the student's first answer matched the key and `-` means it was corrected after looking. Treat these marks as useful reports, not verified assessment; spot-check the work.
 - Future homework answer keys show representative samples for roughly 30-40% of each level. Five presses on the homework meta line unlock all answers for the tutor without opening the answer sections.
@@ -97,6 +102,15 @@ Student-specific state and course conventions. Read this file before creating or
 - Avoid unrelated spelling rules, tense contrasts, or unusual meanings while introducing a grammar rule.
 - Cars are a teaching context, not the learning goal.
 
+## Reading-source workflow
+
+1. Before writing any reading story or dialogue, launch a research subagent to find and read actual human-written source text. It must return the accessible passage or precise section, URL, author/date when available, and evidence for its provenance. A search snippet, inaccessible page, or related citation is insufficient. One verified source may support several passages if each section is checked.
+2. Choose a believable situation with a clear purpose before counting target vocabulary or grammar. Preserve the source's facts, voice, and sequence; distinguish reported events from advice.
+3. Activate the `humanizer` skill for adaptation. Simplify language to the student's level without inventing events or changing a past event into a routine to fit present simple. Label the result as an adaptation and credit the actual source beside it.
+4. Keep a few useful unfamiliar expressions as briefly glossed, input-only language when removing them would make the text unnatural. Record their senses in `VOCABULARY.md`; do not assess untaught forms.
+5. Finish the natural passage before designing its exercises. Test comprehension separately. Remove grammar forms for a cloze only when already-taught forms occur naturally; controlled exercises carry compulsory grammar practice.
+6. Read the final passage aloud and check that its statements and dialogue turns make sense in context. Reject forced grammar, artificial inventories, or dialogue that exists only to repeat a formula. An adaptation remains adapted text, not the human author's original wording.
+
 ## Course sequence
 
 1. Check delayed present-simple construction and noun number, then teach positive `there is / there are` if both are stable.
@@ -121,6 +135,7 @@ The sequence is conditional on evidence. Do not treat coverage as learning.
 - Every lesson has a separate graded homework page and links to it.
 - Future homework pages load `assets/homework-answers.js` and use partial answer keys. Do not retrofit completed homework unless requested.
 - `reference/0001-present-simple-sentence-builder.html` is the canonical quick reference for the current grammar-selection process.
+- Delegate final content and browser verification to subagents. Keep browser navigation and detailed snapshots in their contexts; bring back concise findings and necessary fixes.
 
 ## New-chat checklist
 
@@ -131,6 +146,7 @@ The sequence is conditional on evidence. Do not treat coverage as learning.
 5. Read `assets/course.css` before adding new UI components.
 6. Preserve natural American English, graded exercise progression, and the established visual system.
 7. Never infer mastery from a generated lesson, assigned homework, or immediate success.
+8. Follow the reading-source workflow for every new reading passage, including homework.
 
 ## Pitfalls to avoid
 
