@@ -141,6 +141,39 @@ These school-tested words appeared with their meanings in the completed Lesson 1
 | `bag`     | noun: a container for carrying small things            | Lesson 11 homework | introduced              | appeared in the reading; reused in Lesson 12 |
 | `pick up` | fixed phrase: collect a person or item from a place    | Lesson 11 homework | recalled independently | student used it for collecting a car; do not teach a phrasal-verb system |
 
+## Lesson 13: things and amounts
+
+Lesson 13 is prepared, not taught. Confirm familiar meanings before introducing the noun rule. `Oil` already appeared in Lesson 10's material, but its meaning and countability have not been independently checked. New reading expressions below are input support, not an extra list to memorize or a new tense lesson.
+
+| Entry | Sense and part of speech | First introduced | Status | Notes |
+| ----- | ------------------------ | ---------------- | ------ | ----- |
+| `oil` | noun: liquid used to lubricate an engine | Lesson 10 | introduced | earlier `need oil` prompt; uncountable use prepared for Lesson 13, retention unverified |
+| `water` | noun: the ordinary liquid used for drinking or washing | Lesson 13 | prepared | uncountable liquid sense; `There is water on the floor.` |
+| `money` | noun: an amount available to buy or pay for things | Lesson 13 | prepared | uncountable; Russian plural wording must not trigger `are` |
+| `box` | noun: a container with firm sides | Lesson 13 extension | prepared | optional `a box / two boxes`; no later required task depends on this extension |
+| `battery` | noun: an object that supplies electricity to a car or device | Lesson 13 extension | prepared | optional `a battery / two batteries`; noun spelling, not verb agreement |
+
+## Lesson 13 reading support
+
+These entries are prepared for recognition in source-based reading. Past forms and longer expressions are glossed chunks, not grammar assessed in Lesson 13.
+
+| Entry | Sense and part of speech | First introduced | Status | Notes |
+| ----- | ------------------------ | ---------------- | ------ | ----- |
+| `pay` | verb: give money for a product or service | Lesson 13 reading | prepared | source uses `paying`; no new tense or participle task |
+| `lazy` | adjective: unwilling to make an effort | Lesson 13 reading | prepared | narrator's explanation for delaying learning |
+| `learn` | verb: acquire knowledge or a skill | Lesson 13 reading | prepared | source adaptation uses `learned`; input only |
+| `watch` | verb: look at an activity attentively | Lesson 13 reading | prepared | `watched the mechanics work` glossed as a chunk |
+| `take a car to a garage` | fixed expression: bring or drive a car to a repair shop | Lesson 13 reading | prepared | `took my car` glossed as past-time input |
+| `oil change` | noun: replacement of a vehicle's old engine oil | Lesson 13 reading | prepared | `change the oil / changed the oil` supported as related expressions |
+| `job` | noun: a task or piece of work | Lesson 13 reading | prepared | `do the job myself`; no occupational sense assessed |
+| `try` | verb: make an attempt | Lesson 13 reading | prepared | `too lazy to try`; meaning support if needed |
+| `do nothing about it` | fixed expression: take no action to address a situation | Lesson 13 reading | prepared | `did nothing about it` glossed; no past-tense production |
+| `feel good` | fixed expression: experience satisfaction or a positive feeling | Lesson 13 reading | prepared | `felt good` glossed; no past-tense production |
+| `oil filter` | noun: a filter used in an engine's oil system | Lesson 13 homework | prepared | reading only; not part of compulsory noun-classification practice |
+| `look for` | fixed expression: search for a person or thing | Lesson 13 homework | prepared | recognize `looking for`; no phrasal-verb system |
+| `spend a few minutes` | fixed expression: use a short period of time on an activity | Lesson 13 homework | prepared | `spent a few minutes` glossed as a whole |
+| `similar` | adjective: alike, but not necessarily identical | Lesson 13 homework | prepared | `something similar` glossed for comprehension |
+
 ## School vocabulary inventory
 
 All entries below have status `school-tested`: the test has passed, but current retention and the exact school-taught sense are unverified. Slash-separated source pairs are retained here for traceability and should be tracked separately when reactivated in a course lesson.

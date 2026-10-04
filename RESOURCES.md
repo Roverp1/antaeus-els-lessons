@@ -14,6 +14,8 @@ Trusted sources for grammar decisions and lesson design. English File provides t
   Reference for `a/an` before singular countable nouns and the sound-based choice between the two forms.
 - [Cambridge Grammar: Nouns: form](https://dictionary.cambridge.org/grammar/british-grammar/nouns-form)
   Reference for singular/plural meaning and regular plural formation.
+- [Cambridge Grammar: Nouns: countable and uncountable](https://dictionary.cambridge.org/grammar/british-grammar/nouns-countable-and-uncountable)
+  Lesson 13's three noun rows, uncountable agreement, and the distinction between a noun's meaning and its countability. Use only the core sections now; measures and changing senses come later.
 - [Cambridge Grammar: There is, there's and there are](https://dictionary.cambridge.org/grammar/british-grammar/there-is-there-s-and-there-are)
   Reference for expressing existence with singular and plural noun phrases.
 - [Cambridge Grammar: No, none and none of](https://dictionary.cambridge.org/grammar/british-grammar/no-none-and-none-of)
@@ -34,6 +36,11 @@ Trusted sources for grammar decisions and lesson design. English File provides t
   Overview of spacing, retrieval, interleaving, concrete examples, elaboration, and dual coding. Use these as lesson-design tools, not as student homework.
 - [YouTube: Learn English with Rebecca - `to be` lessons](https://www.youtube.com/results?search_query=learn+english+to+be+verb)
   Optional supplementary explanation. Choose a short video that matches the exact lesson scope and uses natural examples.
+
+## Human-written reading sources
+
+- [Brett & Kate McKay: How to Change Your Motor Oil](https://www.artofmanliness.com/skills/cars/how-to-change-your-motor-oil/)
+  Published October 29, 2009; updated September 26, 2021. A source-research subagent read and verified both selected sections on October 4, 2026. Lesson 13 adapts the personal introduction; its homework adapts the reported experience and advice in the Remove the oil filter section. Both adaptations were reviewed with `humanizer` active. Use the article as a reading source, not a maintenance assignment. The course passages are simplified adaptations, not original quotations.
 
 ## Wisdom (Communities)
 

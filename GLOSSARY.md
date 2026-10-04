@@ -1,6 +1,7 @@
 # ESL Grammar Glossary
 
 Canonical grammar terms already taught and used in this workspace.
+Terms in the prepared section are defined for upcoming materials, not recorded as learned.
 
 ## Sentence structure
 
@@ -83,3 +84,12 @@ _Avoid_: Many noun. Use the grammar term `plural`.
 
 **Article**:
 A small word before a noun. `A` and `an` introduce one non-specific person or thing that can be counted; choose between them by the following sound.
+
+## Prepared terms: Lesson 13
+
+**Countable noun**:
+A noun used for separate items in English, with singular and plural forms: `a glove`, `two gloves`. Countability depends on the meaning being used.
+
+**Uncountable noun**:
+A noun used for a substance or amount rather than separate items in that meaning: engine `oil`, liquid `water`, or `money`. In these uses, do not add `a/an`, a direct number, or a plural ending; use singular verb agreement.
+_Avoid_: Saying its amount cannot be measured or counted. This is an English noun-use rule, not a claim about what is physically possible.
