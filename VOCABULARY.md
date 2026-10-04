@@ -153,6 +153,12 @@ Lesson 13 is prepared, not taught. Confirm familiar meanings before introducing 
 | `box` | noun: a container with firm sides | Lesson 13 extension | prepared | optional `a box / two boxes`; no later required task depends on this extension |
 | `battery` | noun: an object that supplies electricity to a car or device | Lesson 13 extension | prepared | optional `a battery / two batteries`; noun spelling, not verb agreement |
 
+## Lesson 13 speaking support
+
+| Entry | Sense and part of speech | First introduced | Status | Notes |
+| ----- | ------------------------ | ---------------- | ------ | ----- |
+| `Again, please.` | fixed expression: ask a speaker to repeat what was said | Lesson 13 speaking | prepared | [Cambridge: again](https://dictionary.cambridge.org/dictionary/essential-american-english/again), A1 repeat sense, US /əˈɡen/; no new question-grammar rule |
+
 ## Lesson 13 reading support
 
 These entries are prepared for recognition in source-based reading. Past forms and longer expressions are glossed chunks, not grammar assessed in Lesson 13.
