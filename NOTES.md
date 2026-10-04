@@ -27,6 +27,15 @@ Student-specific state and course conventions. Read this file before creating or
 - Lesson 12 homework Levels 1-6 were submitted. Final answers in Levels 2, 3, 4, and 6 match the key. Level 1 item 3 gives `is no` for a gap requiring only `no`; the intended negative pattern is clear, but the answer format may have been misunderstood. Level 5 item 2 uses grammatical `Is there a scarf ...?` instead of the requested known-item `Is the scarf ...?`; the other final answers match the key after interpreting the inserted corrections. First-attempt homework accuracy, reference use, and correction sources are unknown. Level 7 reading was not included in the submission.
 - The student says Lesson 12 homework Task 5 was unclear. Demonstrate each unfamiliar response format and separate sentence-job selection from construction before mixed work. Do not count misunderstanding of the assignment as a grammar failure.
 - Lesson 13 (`lessons/0011-countable-and-uncountable-nouns.html`) and its homework (`exercises/0010-countable-and-uncountable-practice.html`) are prepared, not taught. Check delayed Lesson 12 forms, introduce countability with `water`, `oil`, and `money`, then add `boxes` and `batteries` only if supported practice is steady. Keep the new reference open throughout practice and homework.
+- The tutor finds Lesson 13's Activity 9 too similar to previous prompt-to-sentence drills and wants more conversational speaking in class. Activities 9 and 10 need discussion before redesign; their current form is provisional.
+
+## Lesson 13 delivery notes
+
+- Opening check: continue at 5/6 correct first attempts with no repeated sentence-route error. Count grammar only after the assignment is understood.
+- If the opening check is hard, use the existing there reference and sentence builder for supported review instead of adding grammar. Review: `no scarf / in the car` (absence), `two rings / in the office` (presence question), `the mechanics / not busy` (negative description), `the owner / have an appointment` (question). Assign Levels 2-4 of Lesson 12 homework in this route.
+- Optional plurals: add the spelling section at 3/4 correct first attempts in Section 6's supported sentence practice, without repeated countability or agreement errors. Otherwise continue familiar supported practice and reading. This guides practice, not a claim of retention.
+- Reading: accept gist explanations in Russian and leave past forms unassessed. Explain an unfamiliar expression briefly when it blocks understanding; avoid a vocabulary or tense lecture before the account.
+- On-demand meanings: `oil change` = замена масла; `pay/paying` = платить; `lazy` = ленивый; `learn/learned` = учиться/научился; `took my car` = отвозил машину; `watched` = наблюдал; `wanted` = хотел; `felt good` = было приятно; `do the job myself` = сделать эту работу самому; `did nothing about it` = ничего не предпринимал; `too lazy to try` = слишком ленивый, чтобы попробовать.
 
 ## Student
 
@@ -65,13 +74,14 @@ Student-specific state and course conventions. Read this file before creating or
 - If performance suddenly collapses, stop adding grammar and switch to familiar oral or reading work instead of repeating the full explanation.
 - Use this lesson structure by default: brief no-reference retrieval of earlier grammar -> a bounded new language point with supported practice -> familiar-grammar reading or listening -> guided speaking or writing -> supported closing application. Only previously learned grammar belongs in a no-reference check.
 - Until sentence construction is stable, give grammar and controlled practice most of the lesson time. Input should reinforce the grammar rather than introduce an unfamiliar grammar system.
+- Prioritize speaking during live lessons. Longer sentence-writing and written messages usually belong in homework; brief note-taking can still support a new rule.
 
 ## Exercise design
 
 - Progress from low-load recognition to independent production: identify -> sort -> choose -> complete -> transform -> build from prompts -> speak -> write -> repair -> mix.
 - Error-repair tasks come late and contain one clear error with one natural intended correction.
 - Never use ambiguous prompts such as `Math study hard`.
-- Include reading, speaking, and in-class writing before the student knows the complete tense system.
+- Include reading and speaking before the student knows the complete tense system. Keep classroom writing brief and purposeful.
 - Separate grammar assessment from spelling, punctuation, and pronunciation.
 - During read-aloud work, let him finish the sentence, correct target grammar, then address pronunciation.
 - Mixed exercises must separate decisions when needed: meaning -> grammar lane -> subject agreement -> verb form -> complete sentence.
@@ -94,6 +104,7 @@ Student-specific state and course conventions. Read this file before creating or
 - Teach American English for new vocabulary. When recycling the school list, prefer words shared by American and British English; if a British word is needed, preserve the already-taught word without adding a regional contrast unless confusion appears.
 - Grammar terms stay in English. Russian is used for concise glosses and clarification.
 - Every example must be natural, not merely grammatical.
+- Keep learner pages concise. Put teacher thresholds, recovery routing, and methodological explanations in tutor notes. Use a short reading instruction and compact source credit; give vocabulary help when needed rather than a long preamble. Keep full publication details in `RESOURCES.md`.
 - Use present simple only for identity, descriptions, routines, habits, facts, and schedules.
 - Introduce a simple useful word such as `sometimes` rather than force known vocabulary into an unnatural sentence.
 - Begin with known vocabulary. Record every new word sense in `VOCABULARY.md`.
@@ -136,6 +147,7 @@ The sequence is conditional on evidence. Do not treat coverage as learning.
 - Future homework pages load `assets/homework-answers.js` and use partial answer keys. Do not retrofit completed homework unless requested.
 - `reference/0001-present-simple-sentence-builder.html` is the canonical quick reference for the current grammar-selection process.
 - Delegate final content and browser verification to subagents. Keep browser navigation and detailed snapshots in their contexts; bring back concise findings and necessary fixes.
+- When commits are requested, commit each verified logical unit separately as work proceeds.
 
 ## New-chat checklist
 
