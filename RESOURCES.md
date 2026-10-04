@@ -34,6 +34,8 @@ Trusted sources for grammar decisions and lesson design. English File provides t
   Basis for brief delayed no-reference checks of previously learned grammar and checking answers after retrieval. Keep new grammar references available during instruction and homework.
 - [The Learning Scientists: Six strategies for effective learning](https://www.learningscientists.org/blog/2016/8/18-1)
   Overview of spacing, retrieval, interleaving, concrete examples, elaboration, and dual coding. Use these as lesson-design tools, not as student homework.
+- [Paul Nation: The Four Strands (2007), author-hosted proof](https://www.wgtn.ac.nz/lals/resources/paul-nations-resources/paul-nations-publications/publications/documents/2007-Four-strands.pdf)
+  Distinguishes language-focused drills from meaning-focused output. Supports largely familiar content, communication strategies, role plays, and repetition. Review balance across the whole course, including homework. An untimed interaction trial is an adaptation; the paper's fluency-development strand includes encouragement to perform faster.
 - [YouTube: Learn English with Rebecca - `to be` lessons](https://www.youtube.com/results?search_query=learn+english+to+be+verb)
   Optional supplementary explanation. Choose a short video that matches the exact lesson scope and uses natural examples.
 
