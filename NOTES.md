@@ -26,8 +26,8 @@ Student-specific state and course conventions. Read this file before creating or
 - Lesson 12 (`lessons/0010-there-is-there-are-negatives-and-questions.html`) was completed. The tutor reports roughly 90% first-attempt success once the assignments were understood and says the amount of new grammar and difficulty was right. Occasional verb-versus-adjective/noun confusion remains. The reading felt unnatural and needs a source-first workflow.
 - Lesson 12 homework Levels 1-6 were submitted. Final answers in Levels 2, 3, 4, and 6 match the key. Level 1 item 3 gives `is no` for a gap requiring only `no`; the intended negative pattern is clear, but the answer format may have been misunderstood. Level 5 item 2 uses grammatical `Is there a scarf ...?` instead of the requested known-item `Is the scarf ...?`; the other final answers match the key after interpreting the inserted corrections. First-attempt homework accuracy, reference use, and correction sources are unknown. Level 7 reading was not included in the submission.
 - The student says Lesson 12 homework Task 5 was unclear. Demonstrate each unfamiliar response format and separate sentence-job selection from construction before mixed work. Do not count misunderstanding of the assignment as a grammar failure.
-- Lesson 13 (`lessons/0011-countable-and-uncountable-nouns.html`) and its homework (`exercises/0010-countable-and-uncountable-practice.html`) are prepared, not taught. Check delayed Lesson 12 forms, introduce countability with `water`, `oil`, and `money`, then add `boxes` and `batteries` only if supported practice is steady. Keep the new reference open throughout practice and homework.
-- Lesson 13 has a car-choice speaking task in Sections 9-10: a live demonstration, student-led questions and a personal choice, brief feedback, then a second conversation with one changed fact. Earlier classification and agreement practice is shorter and mainly oral. The guided written update is homework Level 9. Speaking performance has not yet been observed.
+- Lesson 13 (`lessons/0011-countable-and-uncountable-nouns.html`) and its homework (`exercises/0010-countable-and-uncountable-practice.html`) are prepared, not taught. Check delayed Lesson 12 forms, introduce countability with `water`, `oil`, `money`, `gasoline`, `soap`, and `equipment`, then add `boxes` and `batteries` only if supported practice is steady. Keep the new reference open throughout practice and homework.
+- Lesson 13 Sections 9-10 start with tutor questions about the reading, then switch roles so the student asks and hears clear answers. A short personal exchange follows with familiar present-simple questions. Earlier classification and agreement practice is mainly oral. Homework Level 11 is a message to Leo about a learner-chosen car, with the facts and wording left to the student. Speaking performance has not yet been observed.
 
 ## Lesson 13 delivery notes
 
@@ -36,29 +36,20 @@ Student-specific state and course conventions. Read this file before creating or
 - Optional plurals: add the spelling section at 3/4 correct first attempts in Section 6's supported sentence practice, without repeated countability or agreement errors. Otherwise continue familiar supported practice and reading. This guides practice, not a claim of retention.
 - Reading: accept gist explanations in Russian and leave past forms unassessed. Explain an unfamiliar expression briefly when it blocks understanding; avoid a vocabulary or tense lecture before the account.
 - On-demand meanings: `oil change` = замена масла; `pay/paying` = платить; `lazy` = ленивый; `learn/learned` = учиться/научился; `took my car` = отвозил машину; `watched` = наблюдал; `wanted` = хотел; `felt good` = было приятно; `do the job myself` = сделать эту работу самому; `did nothing about it` = ничего не предпринимал; `too lazy to try` = слишком ленивый, чтобы попробовать.
+- The tutor reports that Lesson 12 was well understood and wants more varied, demanding homework. Introduce the three extra uncountable nouns in Lesson 13 before assigning the homework. Contrast individual `tools` with uncountable `equipment`; uncountable does not mean liquid. Check `tool` and `bottle` meanings before assignment. Homework Level 5 combines noun forms with agreement; Level 6 includes questions and short answers; Levels 8-9 mix sentence routes and error types in different situations.
+- The student cannot attend the next scheduled lesson, so this homework is longer. Levels 3-4 add word-role practice because distinguishing nouns, adjectives, and verbs still needs work. Start with one highlighted word, then sort several words in the same sentence. Include `have`, `need`, and forms of `be`; do not define verbs only as physical actions.
 
-### Speaking: choose a car
+### Speaking: reading questions and role switch
 
-- Reserve about 12-15 minutes for this initial speaking trial. The learner page contains the purpose and three car labels; keep the profiles below on the tutor's screen. These are fictional practice cars, not claims about real models.
-- Before the demonstration, check the meaning of a few useful familiar words, such as `cheap`, `comfortable`, and `work`. If he misunderstands a question, briefly check its meaning in Russian before expecting an answer. A forgotten word gets a brief gloss; use fewer attributes if needed.
-- Give a short live demonstration using an extra practice car D. Tell him D is only a demonstration, not one of the choices. It is old, expensive, and reliable; its engine works, but it needs a service. Invite the learner to ask one question and answer truthfully. Then model a brief reaction to a detail and invite a learner response. Use full forms and short familiar language. This is a model of taking turns, not a script to copy.
-- Round 1: the student asks what matters to him and chooses A, B, or C using information he hears. Answer his questions with short, clear replies; add a relevant detail when it helps him decide. Any choice is valid if he understands the information. At the end, invite him to name his choice and one fact that mattered; a word or short answer is fine. There is no prescribed question order, question count, sentence length, or target construction.
-- The optional on-screen help offers `Is it cheap/expensive?`, `Is it fast/comfortable/reliable?`, `Does it work?`, `Does it need a service?`, and `Again, please.` Keep grammar references available. Do not make him copy or recite a script. Teach the repeat request as a useful chunk if it is unfamiliar.
-- During the exchange, clarify communication breakdowns immediately. Otherwise let it continue. Afterward, select one or two useful grammar or pronunciation issues, briefly model the improvement, and let him try it orally.
-- Round 2: change only the price description of the previously chosen car (`cheap` ↔ `expensive`) and tell him the price changed. Do not make him guess which fact changed. Let him ask, respond, and decide again. He can keep his choice. Help is still available; offer less unsolicited prompting if he manages. Do not use a speed test.
-- If the first round is easy, an optional role swap can use the same profiles: the student answers from the table while the tutor asks about a different car.
-- Notice task/question understanding, relevant responses, self-initiated questions or clarification, and the amount of help needed in each round. Natural short replies are appropriate. Complete-sentence accuracy is measured in the separate grammar practice. Do not require past retelling, comparative forms, `because`, or today's countability pattern in this conversation.
-- The moved written update is guided production from supplied facts, not independent content generation. Assign homework Levels 1-4 and 6-9 after the countability work; Level 5 remains conditional on the plural extension.
-
-| Option | Description | Engine | Service |
-| ------ | ----------- | ------ | ------- |
-| A: Honda | old, cheap, comfortable, reliable; not fast | works | does not need a service now |
-| B: SUV | new, expensive, comfortable, reliable; not fast | works | needs a service |
-| C: sports car | old, expensive, fast, powerful; not comfortable or reliable | does not work | needs a service |
-
-For an unlisted detail, use a simple familiar-language answer or say you do not know. Keep the choice about the learner's preferences, not a hidden correct answer. If asked `Does it work?`, A and B work; C does not.
-
-Keep options A-C and their descriptions hidden from the student in Round 1. For Round 2, tell the student the price of their chosen car has changed; then change only its price between `cheap` and `expensive`. If the learner first asks about an unchanged detail, answer normally. Do not make them guess which fact changed or demand a set number of questions.
+- Reserve about 12-15 minutes for this initial trial. Section 9 contains hidden tutor questions and short answer models. Click the lesson header's meta line five times to reveal the tutor section, then open it on your own screen.
+- Ask the three reading questions aloud, one at a time, with the text available. Accept a short English answer, a phrase from the passage, or Russian clarification if needed. Section 8's choices remain available when he needs help with meaning.
+- Switch roles after he understands the questions. He can read them from Section 8 or the speaking help. Answer about the writer in short, clear sentences using the hidden models. Let him finish each question before helping with pronunciation.
+- The reading questions contain untaught past forms. Support their meaning and let him reuse them as whole questions. This is practice in asking and listening, not independent past-tense construction or evidence that he knows those forms.
+- Section 10 moves to personal present-simple questions. Ask first, then let him ask you the same question or another suitable one. Answer truthfully in one or two short sentences. Use full forms before contractions. If he has no car, ask about his interest in working on cars rather than assuming he owns one.
+- Keep question help and grammar references available. Briefly gloss `yourself` if needed; he has already met `myself` in the reading. Offer `Again, please.` when he needs a repeat.
+- Clarify misunderstandings during the exchange. Otherwise let him finish, then work on one or two useful grammar or pronunciation points. Invite another try without restarting the whole activity.
+- Note whether he understands the questions, gives relevant answers, and can ask with the available help. Record read-aloud questions separately from questions he builds himself. Do not require full answers or today's countability pattern to count the conversation as successful.
+- Homework Level 11 asks for a 4-6-sentence opinion about a real or imagined car. The student chooses the content and how to arrange it. The hidden model is one fictional example; different facts and wording are valid. Assess whether Leo can understand the student's opinion and reasons, then give feedback on familiar grammar. Do not require a particular sentence pattern, countability noun, or `because`. Grammar references remain available. Assign Levels 1-6 and 8-11; Level 7 remains conditional on the plural extension.
 
 ## Student
 
@@ -103,6 +94,7 @@ Keep options A-C and their descriptions hidden from the student in Round 1. For 
 ## Exercise design
 
 - Progress from low-load recognition to independent production: identify -> sort -> choose -> complete -> transform -> build from prompts -> speak -> write -> repair -> mix.
+- Vary nouns and situations across practice levels. Recycle the grammar without making the student write the same sentences repeatedly. Add useful uncountable nouns with meaning support when the rule is understood.
 - Error-repair tasks come late and contain one clear error with one natural intended correction.
 - Never use ambiguous prompts such as `Math study hard`.
 - Include reading and speaking before the student knows the complete tense system. Keep classroom writing brief and purposeful.

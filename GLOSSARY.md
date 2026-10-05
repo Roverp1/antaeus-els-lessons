@@ -69,6 +69,11 @@ _Avoid_: Query.
 A brief grammatical answer that repeats the necessary verb: `Yes, it is.` or `No, it is not.`
 _Avoid_: A bare `yes` or `no` when practicing the grammar form.
 
+## Adjectives
+
+**Adjective**:
+A word that describes a noun or pronoun: `a careful driver`; `The engine is powerful`.
+
 ## Nouns and articles
 
 **Noun**:
@@ -91,5 +96,5 @@ A small word before a noun. `A` and `an` introduce one non-specific person or th
 A noun used for separate items in English, with singular and plural forms: `a glove`, `two gloves`. Countability depends on the meaning being used.
 
 **Uncountable noun**:
-A noun used for a substance or amount rather than separate items in that meaning: engine `oil`, liquid `water`, or `money`. In these uses, do not add `a/an`, a direct number, or a plural ending; use singular verb agreement.
+A noun used for a substance, amount, or collection rather than separate items in that meaning: `oil`, `water`, `money`, `gasoline`, `soap`, or `equipment`. In these uses, do not add `a/an`, a direct number, or a plural ending; use singular verb agreement.
 _Avoid_: Saying its amount cannot be measured or counted. This is an English noun-use rule, not a claim about what is physically possible.

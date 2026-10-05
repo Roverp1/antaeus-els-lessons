@@ -150,6 +150,11 @@ Lesson 13 is prepared, not taught. Confirm familiar meanings before introducing 
 | `oil` | noun: liquid used to lubricate an engine | Lesson 10 | introduced | earlier `need oil` prompt; uncountable use prepared for Lesson 13, retention unverified |
 | `water` | noun: the ordinary liquid used for drinking or washing | Lesson 13 | prepared | uncountable liquid sense; `There is water on the floor.` |
 | `money` | noun: an amount available to buy or pay for things | Lesson 13 | prepared | uncountable; Russian plural wording must not trigger `are` |
+| `gasoline` | noun: liquid fuel for a gasoline engine | Lesson 13 | prepared | [Cambridge: gasoline](https://dictionary.cambridge.org/dictionary/english/gasoline), American uncountable fuel sense; `бензин`; no type or quantity expressions assessed |
+| `soap` | noun: a substance used for washing | Lesson 13 | prepared | [Cambridge: soap](https://dictionary.cambridge.org/dictionary/essential-american-english/soap), US /soʊp/; uncountable cleaning-substance sense, not types of soap |
+| `equipment` | noun: tools and other things used for work or an activity | Lesson 13 | prepared | [Cambridge: equipment](https://dictionary.cambridge.org/dictionary/essential-american-english/equipment), US /ɪˈkwɪp·mənt/; uncountable; contrast `two tools` with `The equipment is...` |
+| `tool` | noun: an item used to do work or repairs | Lesson 13 | prepared | [Cambridge: tool](https://dictionary.cambridge.org/dictionary/english/tool), American equipment sense; countable `a tool / two tools`; gloss `инструмент` |
+| `bottle` | noun: a container for liquids | Lesson 13 homework | prepared | [Cambridge: bottle](https://dictionary.cambridge.org/dictionary/english/bottle), American container sense; countable `a bottle / two bottles`; gloss `бутылка` |
 | `box` | noun: a container with firm sides | Lesson 13 extension | prepared | optional `a box / two boxes`; no later required task depends on this extension |
 | `battery` | noun: an object that supplies electricity to a car or device | Lesson 13 extension | prepared | optional `a battery / two batteries`; noun spelling, not verb agreement |
 
@@ -158,6 +163,7 @@ Lesson 13 is prepared, not taught. Confirm familiar meanings before introducing 
 | Entry | Sense and part of speech | First introduced | Status | Notes |
 | ----- | ------------------------ | ---------------- | ------ | ----- |
 | `Again, please.` | fixed expression: ask a speaker to repeat what was said | Lesson 13 speaking | prepared | [Cambridge: again](https://dictionary.cambridge.org/dictionary/essential-american-english/again), A1 repeat sense, US /əˈɡen/; no new question-grammar rule |
+| `change the oil yourself` | expression: replace the oil personally instead of having someone else do it | Lesson 13 speaking | prepared | gloss `yourself` as `сам`; connects to `do the job myself` in the reading without a separate pronoun lesson |
 
 ## Lesson 13 reading support
 
