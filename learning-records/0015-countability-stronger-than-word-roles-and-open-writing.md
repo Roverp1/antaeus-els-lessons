@@ -1,0 +1,5 @@
+# Countability is stronger than word roles and open writing
+
+Lesson 13 went well, with the tutor reporting about 90% first-attempt success and quick corrections after the student recognized a problem. Final homework answers show strong countability, agreement, there forms, plural spelling, and mixed sentence construction, but word roles remain unstable: Z.3 is 6/9, with `expensive`, `needs`, and `is` misclassified; the open message also loses familiar forms. Homework correction sources and reference use are unknown, so the final answers do not establish independent retention.
+
+The tutor reports that unfamiliar vocabulary blocked the lesson reading and that brief meaning explanations usually made the sentences clear. The passage also contained untaught past forms and expressions. Keep grammar central, add a small vocabulary set with meaning support, and recycle it through reading, speaking, and writing. After the three-week gap, check familiar grammar before homework correction, then introduce some/any only if retrieval supports it.

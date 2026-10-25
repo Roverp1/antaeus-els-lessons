@@ -16,6 +16,10 @@ Trusted sources for grammar decisions and lesson design. English File provides t
   Reference for singular/plural meaning and regular plural formation.
 - [Cambridge Grammar: Nouns: countable and uncountable](https://dictionary.cambridge.org/grammar/british-grammar/nouns-countable-and-uncountable)
   Lesson 13's three noun rows, uncountable agreement, and the distinction between a noun's meaning and its countability. Use only the core sections now; measures and changing senses come later.
+- [Cambridge Grammar: Some and any](https://dictionary.cambridge.org/grammar/british-grammar/some-and-any)
+  Lesson 14's affirmative some and neutral-question/negative any. Read the complete explanation: these are common patterns, with some also possible in questions expecting yes. Exceptions remain outside the initial controlled practice.
+- [Cambridge Grammar: Any](https://dictionary.cambridge.org/grammar/british-grammar/any)
+  The Weak form any and Not any and no sections support Lesson 14's plural/uncountable noun restriction and absence reports. The strong free-choice sense is distinct and not assessed. Also supports repairing `any = każdy` in the student's quantity question.
 - [Cambridge Grammar: There is, there's and there are](https://dictionary.cambridge.org/grammar/british-grammar/there-is-there-s-and-there-are)
   Reference for expressing existence with singular and plural noun phrases.
 - [Cambridge Grammar: No, none and none of](https://dictionary.cambridge.org/grammar/british-grammar/no-none-and-none-of)
@@ -43,6 +47,15 @@ Trusted sources for grammar decisions and lesson design. English File provides t
 
 - [Brett & Kate McKay: How to Change Your Motor Oil](https://www.artofmanliness.com/skills/cars/how-to-change-your-motor-oil/)
   Published October 29, 2009; updated September 26, 2021. A source-research subagent read and verified both selected sections on October 4, 2026. Lesson 13 adapts the personal introduction; its homework adapts the reported experience and advice in the Remove the oil filter section. Both adaptations were reviewed with `humanizer` active. Use the article as a reading source, not a maintenance assignment. The course passages are simplified adaptations, not original quotations.
+- [Brett & Kate McKay: An Illustrated Guide to the Perfect Driveway Car Wash](https://www.artofmanliness.com/skills/cars/driveway-car-wash/)
+  Published April 25, 2012; updated June 2, 2021. Illustration by Ted Slampyak. The accessible page's byline, publication details, and complete numbered instructions were read on October 25, 2026; the 2012 publication and named authors establish the human-written source. Lesson 14 adapts the two-bucket materials and sponge-rinsing instructions in steps 1, 4, and 5. Homework adapts the top-down washing, frequent sponge rinsing, keeping the car wet, and gentle final rinse in steps 5-6. Both passages were reviewed with `humanizer` active and remain advice, not invented personal events. Imperatives and a few glossed expressions are input only. The lesson passages are simplified adaptations, not original quotations.
+
+## Lesson 14 vocabulary checks
+
+- [Cambridge Essential American English: bucket](https://dictionary.cambridge.org/dictionary/essential-american-english/bucket), [sponge](https://dictionary.cambridge.org/dictionary/essential-american-english/sponge), and [rinse](https://dictionary.cambridge.org/dictionary/essential-american-english/rinse)
+  Checked the container, washing-item, and water-rinsing senses and American pronunciation before preparing the three active entries. `Bucket` is marked B1 but is concrete and useful in this context; its meaning is supplied.
+- [Cambridge Essential American English: wet](https://dictionary.cambridge.org/dictionary/essential-american-english/wet), [gentle](https://dictionary.cambridge.org/dictionary/essential-american-english/gentle), and [prevent](https://dictionary.cambridge.org/dictionary/essential-american-english/prevent)
+  Checked the water-covered, not-strong, and stop-from-happening senses used in the homework's glossed input phrases. These are recognition support rather than an extra active vocabulary list.
 
 ## Wisdom (Communities)
 

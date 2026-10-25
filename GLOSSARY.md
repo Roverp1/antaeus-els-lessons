@@ -90,7 +90,7 @@ _Avoid_: Many noun. Use the grammar term `plural`.
 **Article**:
 A small word before a noun. `A` and `an` introduce one non-specific person or thing that can be counted; choose between them by the following sound.
 
-## Prepared terms: Lesson 13
+## Countability
 
 **Countable noun**:
 A noun used for separate items in English, with singular and plural forms: `a glove`, `two gloves`. Countability depends on the meaning being used.
@@ -98,3 +98,15 @@ A noun used for separate items in English, with singular and plural forms: `a gl
 **Uncountable noun**:
 A noun used for a substance, amount, or collection rather than separate items in that meaning: `oil`, `water`, `money`, `gasoline`, `soap`, or `equipment`. In these uses, do not add `a/an`, a direct number, or a plural ending; use singular verb agreement.
 _Avoid_: Saying its amount cannot be measured or counted. This is an English noun-use rule, not a claim about what is physically possible.
+
+## Prepared terms: Lesson 14
+
+**Quantifier**:
+A word or expression before a noun that gives information about amount or number. Lesson 14 prepares `some` and `any` with plural countable and uncountable nouns.
+
+**`some` in amount statements**:
+Refers to an unspecified amount or number: `some oil`, `some tools`. It does not give an exact amount and does not necessarily mean a small amount.
+
+**`any` in quantity questions and negatives**:
+Asks whether an amount or any items are available, or occurs with `not` to report absence: `Is there any oil?`; `There are not any tools`. In these patterns, use an uncountable noun or a plural countable noun.
+_Avoid_: One fixed translation for every use of `any`, or saying `any` makes a sentence negative by itself.

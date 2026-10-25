@@ -143,20 +143,20 @@ These school-tested words appeared with their meanings in the completed Lesson 1
 
 ## Lesson 13: things and amounts
 
-Lesson 13 is prepared, not taught. Confirm familiar meanings before introducing the noun rule. `Oil` already appeared in Lesson 10's material, but its meaning and countability have not been independently checked. New reading expressions below are input support, not an extra list to memorize or a new tense lesson.
+Lesson 13 and its submitted homework provide controlled-practice evidence for these noun uses. Final forms are strong, but the supplied meanings, references, and unknown correction sources do not establish independent meaning recall. Reading expressions below remain input support rather than a new tense lesson.
 
 | Entry | Sense and part of speech | First introduced | Status | Notes |
 | ----- | ------------------------ | ---------------- | ------ | ----- |
-| `oil` | noun: liquid used to lubricate an engine | Lesson 10 | introduced | earlier `need oil` prompt; uncountable use prepared for Lesson 13, retention unverified |
-| `water` | noun: the ordinary liquid used for drinking or washing | Lesson 13 | prepared | uncountable liquid sense; `There is water on the floor.` |
-| `money` | noun: an amount available to buy or pay for things | Lesson 13 | prepared | uncountable; Russian plural wording must not trigger `are` |
-| `gasoline` | noun: liquid fuel for a gasoline engine | Lesson 13 | prepared | [Cambridge: gasoline](https://dictionary.cambridge.org/dictionary/english/gasoline), American uncountable fuel sense; `бензин`; no type or quantity expressions assessed |
-| `soap` | noun: a substance used for washing | Lesson 13 | prepared | [Cambridge: soap](https://dictionary.cambridge.org/dictionary/essential-american-english/soap), US /soʊp/; uncountable cleaning-substance sense, not types of soap |
-| `equipment` | noun: tools and other things used for work or an activity | Lesson 13 | prepared | [Cambridge: equipment](https://dictionary.cambridge.org/dictionary/essential-american-english/equipment), US /ɪˈkwɪp·mənt/; uncountable; contrast `two tools` with `The equipment is...` |
-| `tool` | noun: an item used to do work or repairs | Lesson 13 | prepared | [Cambridge: tool](https://dictionary.cambridge.org/dictionary/english/tool), American equipment sense; countable `a tool / two tools`; gloss `инструмент` |
-| `bottle` | noun: a container for liquids | Lesson 13 homework | prepared | [Cambridge: bottle](https://dictionary.cambridge.org/dictionary/english/bottle), American container sense; countable `a bottle / two bottles`; gloss `бутылка` |
-| `box` | noun: a container with firm sides | Lesson 13 extension | prepared | optional `a box / two boxes`; no later required task depends on this extension |
-| `battery` | noun: an object that supplies electricity to a car or device | Lesson 13 extension | prepared | optional `a battery / two batteries`; noun spelling, not verb agreement |
+| `oil` | noun: liquid used to lubricate an engine | Lesson 10 | practiced | uncountable use correct in completed noun phrases and sentence practice; independent meaning recall unverified |
+| `water` | noun: the ordinary liquid used for drinking or washing | Lesson 13 | practiced | completed uncountable agreement correct; `water; is` |
+| `money` | noun: an amount available to buy or pay for things | Lesson 13 | practiced | uncountable repair and `Is there any money ...?` correct; the associated any translation needs contextual repair |
+| `gasoline` | noun: liquid fuel for a gasoline engine | Lesson 13 | practiced | [Cambridge: gasoline](https://dictionary.cambridge.org/dictionary/english/gasoline), American uncountable fuel sense; `бензин`; controlled question and article repair correct |
+| `soap` | noun: a substance used for washing | Lesson 13 | practiced | [Cambridge: soap](https://dictionary.cambridge.org/dictionary/essential-american-english/soap), US /soʊp/; uncountable classification, phrase, and negative report correct |
+| `equipment` | noun: tools and other things used for work or an activity | Lesson 13 | practiced | [Cambridge: equipment](https://dictionary.cambridge.org/dictionary/essential-american-english/equipment), US /ɪˈkwɪp·mənt/; uncountable classification and agreement correct in final answers |
+| `tool` | noun: an item used to do work or repairs | Lesson 13 | practiced | [Cambridge: tool](https://dictionary.cambridge.org/dictionary/english/tool), American equipment sense; countable forms and sentence use correct; meaning recall unverified |
+| `bottle` | noun: a container for liquids | Lesson 13 homework | practiced | [Cambridge: bottle](https://dictionary.cambridge.org/dictionary/english/bottle), American container sense; singular and plural sentence use correct |
+| `box` | noun: a container with firm sides | Lesson 13 extension | practiced | completed `a box`, `three boxes`, and `two boxes` correct; first-attempt accuracy unknown |
+| `battery` | noun: an object that supplies electricity to a car or device | Lesson 13 extension | practiced | completed `a battery`, `two batteries`, and `four batteries` correct; first-attempt accuracy unknown |
 
 ## Lesson 13 speaking support
 
@@ -167,24 +167,45 @@ Lesson 13 is prepared, not taught. Confirm familiar meanings before introducing 
 
 ## Lesson 13 reading support
 
-These entries are prepared for recognition in source-based reading. Past forms and longer expressions are glossed chunks, not grammar assessed in Lesson 13.
+The lesson reading was completed and its homework reading was submitted. Entries are tracked as introduced input, with individual meaning recall unverified. The tutor reports that unfamiliar words or expressions usually became clear after a gloss, but the particular blocking entries were not identified. Past forms and longer expressions remain supported chunks, not assessed grammar.
 
 | Entry | Sense and part of speech | First introduced | Status | Notes |
 | ----- | ------------------------ | ---------------- | ------ | ----- |
-| `pay` | verb: give money for a product or service | Lesson 13 reading | prepared | source uses `paying`; no new tense or participle task |
-| `lazy` | adjective: unwilling to make an effort | Lesson 13 reading | prepared | narrator's explanation for delaying learning |
-| `learn` | verb: acquire knowledge or a skill | Lesson 13 reading | prepared | source adaptation uses `learned`; input only |
-| `watch` | verb: look at an activity attentively | Lesson 13 reading | prepared | `watched the mechanics work` glossed as a chunk |
-| `take a car to a garage` | fixed expression: bring or drive a car to a repair shop | Lesson 13 reading | prepared | `took my car` glossed as past-time input |
-| `oil change` | noun: replacement of a vehicle's old engine oil | Lesson 13 reading | prepared | `change the oil / changed the oil` supported as related expressions |
-| `job` | noun: a task or piece of work | Lesson 13 reading | prepared | `do the job myself`; no occupational sense assessed |
-| `try` | verb: make an attempt | Lesson 13 reading | prepared | `too lazy to try`; meaning support if needed |
-| `do nothing about it` | fixed expression: take no action to address a situation | Lesson 13 reading | prepared | `did nothing about it` glossed; no past-tense production |
-| `feel good` | fixed expression: experience satisfaction or a positive feeling | Lesson 13 reading | prepared | `felt good` glossed; no past-tense production |
-| `oil filter` | noun: a filter used in an engine's oil system | Lesson 13 homework | prepared | reading only; not part of compulsory noun-classification practice |
-| `look for` | fixed expression: search for a person or thing | Lesson 13 homework | prepared | recognize `looking for`; no phrasal-verb system |
-| `spend a few minutes` | fixed expression: use a short period of time on an activity | Lesson 13 homework | prepared | `spent a few minutes` glossed as a whole |
-| `similar` | adjective: alike, but not necessarily identical | Lesson 13 homework | prepared | `something similar` glossed for comprehension |
+| `pay` | verb: give money for a product or service | Lesson 13 reading | introduced | source uses `paying`; no new tense or participle task |
+| `lazy` | adjective: unwilling to make an effort | Lesson 13 reading | introduced | narrator's explanation for delaying learning |
+| `learn` | verb: acquire knowledge or a skill | Lesson 13 reading | introduced | source adaptation uses `learned`; input only |
+| `watch` | verb: look at an activity attentively | Lesson 13 reading | introduced | `watched the mechanics work` available as a supported chunk |
+| `take a car to a garage` | fixed expression: bring or drive a car to a repair shop | Lesson 13 reading | introduced | `took my car` supported as past-time input |
+| `oil change` | noun: replacement of a vehicle's old engine oil | Lesson 13 reading | introduced | `change the oil / changed the oil` supported as related expressions |
+| `job` | noun: a task or piece of work | Lesson 13 reading | introduced | `do the job myself`; no occupational sense assessed |
+| `try` | verb: make an attempt | Lesson 13 reading | introduced | `too lazy to try`; independent meaning recall unverified |
+| `do nothing about it` | fixed expression: take no action to address a situation | Lesson 13 reading | introduced | `did nothing about it` supported; no past-tense production |
+| `feel good` | fixed expression: experience satisfaction or a positive feeling | Lesson 13 reading | introduced | `felt good` supported; no past-tense production |
+| `oil filter` | noun: a filter used in an engine's oil system | Lesson 13 homework | introduced | supplied meaning and correct comprehension choice; independent recall unverified |
+| `look for` | fixed expression: search for a person or thing | Lesson 13 homework | introduced | `looking for` supplied with a meaning; no phrasal-verb system |
+| `spend a few minutes` | fixed expression: use a short period of time on an activity | Lesson 13 homework | introduced | `spent a few minutes` supplied as a whole |
+| `similar` | adjective: alike, but not necessarily identical | Lesson 13 homework | practiced | appropriate in the completed car message; reference use unknown |
+
+## Lesson 14: some/any and car washing
+
+Lesson 14 is prepared, not taught. The three active content words are `bucket`, `sponge`, and `rinse`; model their meanings in context and recycle them in reading, speaking, and homework. A few longer expressions are recognition support. Imperatives and `for rinsing` are input only.
+
+| Entry | Sense and part of speech | First introduced | Status | Notes |
+| ----- | ------------------------ | ---------------- | ------ | ----- |
+| `some` | quantifier: an unspecified amount or number in an affirmative report | Lesson 14 | prepared | plural countable or uncountable nouns in these patterns; does not necessarily mean a small amount |
+| `any` | quantifier: an indefinite quantity in a neutral question or with a negative word | Lesson 13 homework | unstable | grammatical `Is there any money ...?`, but note `any = każdy` does not fit this sense; systematic teaching prepared for Lesson 14 |
+| `car soap` | noun phrase: soap intended for washing a car | Lesson 14 | prepared | recycle uncountable soap with the car-washing sense made explicit |
+| `bucket` | countable noun: an open container used for carrying water or other liquids | Lesson 14 | prepared | [Cambridge](https://dictionary.cambridge.org/dictionary/essential-american-english/bucket), US /ˈbʌk·ɪt/, B1; `ведро`; `a bucket / some buckets` |
+| `sponge` | countable noun: a soft item used for washing things | Lesson 14 | prepared | [Cambridge](https://dictionary.cambridge.org/dictionary/essential-american-english/sponge), US /spʌndʒ/; `губка`; `a sponge / some sponges` |
+| `rinse` | verb: wash with water to remove soap or dirt | Lesson 14 | prepared | [Cambridge](https://dictionary.cambridge.org/dictionary/essential-american-english/rinse), US /rɪns/; `ополаскивать`; `for rinsing your sponge` supported as a whole |
+| `a small part of the car` | expression: a limited area of the car's surface | Lesson 14 reading | prepared | `небольшой участок автомобиля`; recognition support |
+| `put it back` | expression: return an item to its previous place | Lesson 14 reading | prepared | `положить её обратно` for the sponge; recognition support |
+| `often` | adverb: on many occasions or repeatedly | Lesson 14 reading | prepared | `часто`; frequency meaning in the source's repeated rinsing instruction |
+| `from the top down` | expression: begin at the top and move toward the bottom | Lesson 14 homework | prepared | `сверху вниз`; recognition support |
+| `a small part at a time` | expression: one limited area before moving to the next | Lesson 14 homework | prepared | `по одному небольшому участку`; recognition support |
+| `keep the car wet` | expression: maintain water on the car while washing | Lesson 14 homework | prepared | [Cambridge: wet](https://dictionary.cambridge.org/dictionary/essential-american-english/wet), water-covered A2 sense; `смачивайте машину водой, чтобы она оставалась мокрой` |
+| `prevent water and soap spots` | expression: stop marks from water or soap from appearing | Lesson 14 homework | prepared | [Cambridge: prevent](https://dictionary.cambridge.org/dictionary/essential-american-english/prevent), stop-from-happening sense; gloss as a whole |
+| `a gentle stream of water` | expression: a flow of water that is not strong | Lesson 14 homework | prepared | [Cambridge: gentle](https://dictionary.cambridge.org/dictionary/essential-american-english/gentle), not-strong sense; `несильная струя воды`; recognition support |
 
 ## School vocabulary inventory
 
