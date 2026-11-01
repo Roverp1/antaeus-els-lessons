@@ -188,24 +188,46 @@ The lesson reading was completed and its homework reading was submitted. Entries
 
 ## Lesson 14: some/any and car washing
 
-Lesson 14 is prepared, not taught. The three active content words are `bucket`, `sponge`, and `rinse`; model their meanings in context and recycle them in reading, speaking, and homework. A few longer expressions are recognition support. Imperatives and `for rinsing` are input only.
+Lesson 14 was completed and its homework was submitted. Final answers provide controlled-practice evidence for some/any, bucket, and sponge. Resource use and earlier corrections are unknown. `Rinses` was misclassified as an adjective; its meaning recall is unverified. Reading expressions remain supported input, and the live speaking task was unfinished.
 
 | Entry | Sense and part of speech | First introduced | Status | Notes |
 | ----- | ------------------------ | ---------------- | ------ | ----- |
-| `some` | quantifier: an unspecified amount or number in an affirmative report | Lesson 14 | prepared | plural countable or uncountable nouns in these patterns; does not necessarily mean a small amount |
-| `any` | quantifier: an indefinite quantity in a neutral question or with a negative word | Lesson 13 homework | unstable | grammatical `Is there any money ...?`, but note `any = każdy` does not fit this sense; systematic teaching prepared for Lesson 14 |
-| `car soap` | noun phrase: soap intended for washing a car | Lesson 14 | prepared | recycle uncountable soap with the car-washing sense made explicit |
-| `bucket` | countable noun: an open container used for carrying water or other liquids | Lesson 14 | prepared | [Cambridge](https://dictionary.cambridge.org/dictionary/essential-american-english/bucket), US /ˈbʌk·ɪt/, B1; `ведро`; `a bucket / some buckets` |
-| `sponge` | countable noun: a soft item used for washing things | Lesson 14 | prepared | [Cambridge](https://dictionary.cambridge.org/dictionary/essential-american-english/sponge), US /spʌndʒ/; `губка`; `a sponge / some sponges` |
-| `rinse` | verb: wash with water to remove soap or dirt | Lesson 14 | prepared | [Cambridge](https://dictionary.cambridge.org/dictionary/essential-american-english/rinse), US /rɪns/; `ополаскивать`; `for rinsing your sponge` supported as a whole |
-| `a small part of the car` | expression: a limited area of the car's surface | Lesson 14 reading | prepared | `небольшой участок автомобиля`; recognition support |
-| `put it back` | expression: return an item to its previous place | Lesson 14 reading | prepared | `положить её обратно` for the sponge; recognition support |
-| `often` | adverb: on many occasions or repeatedly | Lesson 14 reading | prepared | `часто`; frequency meaning in the source's repeated rinsing instruction |
-| `from the top down` | expression: begin at the top and move toward the bottom | Lesson 14 homework | prepared | `сверху вниз`; recognition support |
-| `a small part at a time` | expression: one limited area before moving to the next | Lesson 14 homework | prepared | `по одному небольшому участку`; recognition support |
-| `keep the car wet` | expression: maintain water on the car while washing | Lesson 14 homework | prepared | [Cambridge: wet](https://dictionary.cambridge.org/dictionary/essential-american-english/wet), water-covered A2 sense; `смачивайте машину водой, чтобы она оставалась мокрой` |
-| `prevent water and soap spots` | expression: stop marks from water or soap from appearing | Lesson 14 homework | prepared | [Cambridge: prevent](https://dictionary.cambridge.org/dictionary/essential-american-english/prevent), stop-from-happening sense; gloss as a whole |
-| `a gentle stream of water` | expression: a flow of water that is not strong | Lesson 14 homework | prepared | [Cambridge: gentle](https://dictionary.cambridge.org/dictionary/essential-american-english/gentle), not-strong sense; `несильная струя воды`; recognition support |
+| `some` | quantifier: an unspecified amount or number in an affirmative report | Lesson 14 | practiced | final quantity choices, noun phrases, and sentences correct; does not necessarily mean a small amount |
+| `any` | quantifier: an indefinite quantity in a neutral question or with a negative word | Lesson 13 homework | practiced | final Lesson 14 quantity uses correct; earlier `any = każdy` did not fit the quantity sense; independent meaning recall remains unverified |
+| `car soap` | noun phrase: soap intended for washing a car | Lesson 14 | introduced | reading and homework support make the uncountable car-washing sense explicit |
+| `bucket` | countable noun: an open container used for carrying water or other liquids | Lesson 14 | practiced | [Cambridge](https://dictionary.cambridge.org/dictionary/essential-american-english/bucket), US /ˈbʌk·ɪt/, B1; `ведро`; final plural agreement and word-role answers correct |
+| `sponge` | countable noun: a soft item used for washing things | Lesson 14 | practiced | [Cambridge](https://dictionary.cambridge.org/dictionary/essential-american-english/sponge), US /spʌndʒ/; `губка`; final `a sponge`, questions, and plural repair correct |
+| `rinse` | verb: wash with water to remove soap or dirt | Lesson 14 | introduced | [Cambridge](https://dictionary.cambridge.org/dictionary/essential-american-english/rinse), US /rɪns/; `ополаскивать`; homework `rinses` was labeled adjective; review word role without assuming the meaning was forgotten |
+| `a small part of the car` | expression: a limited area of the car's surface | Lesson 14 reading | introduced | `небольшой участок автомобиля`; supported input, recall unverified |
+| `put it back` | expression: return an item to its previous place | Lesson 14 reading | introduced | `положить её обратно` for the sponge; supported input |
+| `often` | adverb: on many occasions or repeatedly | Lesson 14 reading | introduced | `часто`; supported frequency meaning |
+| `from the top down` | expression: begin at the top and move toward the bottom | Lesson 14 homework | introduced | `сверху вниз`; supported reading, comprehension answers correct |
+| `a small part at a time` | expression: one limited area before moving to the next | Lesson 14 homework | introduced | `по одному небольшому участку`; supported input |
+| `keep the car wet` | expression: maintain water on the car while washing | Lesson 14 homework | introduced | [Cambridge: wet](https://dictionary.cambridge.org/dictionary/essential-american-english/wet), water-covered A2 sense; `смачивайте машину водой, чтобы она оставалась мокрой` |
+| `prevent water and soap spots` | expression: stop marks from water or soap from appearing | Lesson 14 homework | introduced | [Cambridge: prevent](https://dictionary.cambridge.org/dictionary/essential-american-english/prevent), stop-from-happening sense; correct evidence sentence in homework |
+| `a gentle stream of water` | expression: a flow of water that is not strong | Lesson 14 homework | introduced | [Cambridge: gentle](https://dictionary.cambridge.org/dictionary/essential-american-english/gentle), not-strong sense; `несильная струя воды`; supported input |
+
+## Lesson 15: large quantities and drying a car
+
+Lesson 15 is prepared, not taught. `Towel` as a noun and `dry` as a verb are the two new active content senses. Longer reading expressions are input support. Speaking phrases can be modeled as whole expressions; they do not establish modal-grammar knowledge.
+
+| Entry | Sense and part of speech | First introduced | Status | Notes |
+| ----- | ------------------------ | ---------------- | ------ | ----- |
+| `many` | quantifier: a large number with a plural countable noun | Lesson 15 | prepared | [Cambridge quantifiers](https://dictionary.cambridge.org/grammar/british-grammar/much-many-a-lot-of-lots-of-quantifiers); common in questions and negatives, also possible in positives |
+| `a lot of` | quantifier expression: a large amount or number before a noun | Lesson 15 | prepared | plural countable or uncountable noun; all three words stay together; noun controls is/are |
+| `not many / not a lot of` | negative quantity expressions: a number or amount is not large | Lesson 15 | prepared | do not explicitly state zero; zero remains possible |
+| `towel` | countable noun: cloth used to dry someone or something wet | Lesson 15 | prepared | [Cambridge](https://dictionary.cambridge.org/us/dictionary/english/towel), American /ˈtaʊəl/, A2; `полотенце`; `two towels` |
+| `dry` | verb: remove water or make something no longer wet | Lesson 15 | prepared | [Cambridge](https://dictionary.cambridge.org/dictionary/essential-american-english/dry), US /draɪ/, A2; `dry the car` = `вытереть машину насухо`; no adjective/verb contrast assessed |
+| `a microfiber towel` | noun phrase: a towel made of very fine synthetic fibers | Lesson 15 reading | prepared | `полотенце из микрофибры`; the source specifies this material; recognition support |
+| `do not press hard` | expression: avoid using strong pressure | Lesson 15 reading | prepared | `не нажимайте сильно`; gloss as a whole |
+| `soak up most of the water` | expression: absorb the main part of the water | Lesson 15 reading | prepared | `впитать основную часть воды`; most of and soak up are input only |
+| `small wet spots` | noun phrase: limited areas with water still on them | Lesson 15 reading | prepared | `небольшие мокрые участки`; recycle the water-covered sense of wet |
+| `bring` | verb: take an item with you to a place | Lesson 15 speaking | prepared | [Cambridge](https://dictionary.cambridge.org/us/dictionary/essential-american-english/bring), US /brɪŋ/, A2; `принести / привезти`; use inside the supported phrase |
+| `I can bring ...` | fixed expression: offer to supply an item at the chosen place | Lesson 15 speaking | prepared | `Я могу принести или привезти ...`; whole-expression help, no modal construction test |
+| `We can use ...` | fixed expression: suggest an available place or item | Lesson 15 speaking | prepared | `Можно использовать ...`; whole-expression help |
+| `in the shade` | expression: away from direct sunlight | Lesson 15 homework | prepared | `в тени`; source's recommended washing location |
+| `when it is not sunny` | expression: at a time without strong sunshine | Lesson 15 homework | prepared | `когда не солнечно`; input support for the source's alternative washing time |
+| `drying too quickly / leaving spots` | expressions: losing water too fast and causing marks | Lesson 15 homework | prepared | `слишком быстро высыхать / оставлять пятна`; causal reading support, not new tense or participle practice |
 
 ## School vocabulary inventory
 

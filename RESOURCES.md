@@ -20,6 +20,8 @@ Trusted sources for grammar decisions and lesson design. English File provides t
   Lesson 14's affirmative some and neutral-question/negative any. Read the complete explanation: these are common patterns, with some also possible in questions expecting yes. Exceptions remain outside the initial controlled practice.
 - [Cambridge Grammar: Any](https://dictionary.cambridge.org/grammar/british-grammar/any)
   The Weak form any and Not any and no sections support Lesson 14's plural/uncountable noun restriction and absence reports. The strong free-choice sense is distinct and not assessed. Also supports repairing `any = każdy` in the student's quantity question.
+- [Cambridge Grammar: Much, many, a lot of, lots of](https://dictionary.cambridge.org/grammar/british-grammar/much-many-a-lot-of-lots-of-quantifiers)
+  Read the noun sections before preparing Lesson 15. Many takes plural countable nouns; a lot of takes plural countable and uncountable nouns and works in statements, questions, and negatives. Prefer a lot of in ordinary positive examples while accepting grammatical positive many. Much, quantity wh-questions, and degree expressions remain outside this lesson's assessed scope.
 - [Cambridge Grammar: There is, there's and there are](https://dictionary.cambridge.org/grammar/british-grammar/there-is-there-s-and-there-are)
   Reference for expressing existence with singular and plural noun phrases.
 - [Cambridge Grammar: No, none and none of](https://dictionary.cambridge.org/grammar/british-grammar/no-none-and-none-of)
@@ -49,6 +51,7 @@ Trusted sources for grammar decisions and lesson design. English File provides t
   Published October 29, 2009; updated September 26, 2021. A source-research subagent read and verified both selected sections on October 4, 2026. Lesson 13 adapts the personal introduction; its homework adapts the reported experience and advice in the Remove the oil filter section. Both adaptations were reviewed with `humanizer` active. Use the article as a reading source, not a maintenance assignment. The course passages are simplified adaptations, not original quotations.
 - [Brett & Kate McKay: An Illustrated Guide to the Perfect Driveway Car Wash](https://www.artofmanliness.com/skills/cars/driveway-car-wash/)
   Published April 25, 2012; updated June 2, 2021. Illustration by Ted Slampyak. The accessible page's byline, publication details, and complete numbered instructions were read on October 25, 2026; the 2012 publication and named authors establish the human-written source. Lesson 14 adapts the two-bucket materials and sponge-rinsing instructions in steps 1, 4, and 5. Homework adapts the top-down washing, frequent sponge rinsing, keeping the car wet, and gentle final rinse in steps 5-6. Both passages were reviewed with `humanizer` active and remain advice, not invented personal events. Imperatives and a few glossed expressions are input only. The lesson passages are simplified adaptations, not original quotations.
+  The byline, dates, and selected numbered instructions were checked directly again on November 1, 2026, before preparing Lesson 15. Its lesson adapts steps 6-7: the gentle final rinse, drying with a microfiber towel without strong pressure, then using a second towel on remaining wet spots. Homework adapts step 1's shade or non-sunny conditions, premature drying and water spots, and selected materials. Both adaptations were written and reviewed with humanizer active. The webpage's `Dray` typo is not reproduced. These are language readings, not maintenance assignments.
 
 ## Lesson 14 vocabulary checks
 
@@ -56,6 +59,32 @@ Trusted sources for grammar decisions and lesson design. English File provides t
   Checked the container, washing-item, and water-rinsing senses and American pronunciation before preparing the three active entries. `Bucket` is marked B1 but is concrete and useful in this context; its meaning is supplied.
 - [Cambridge Essential American English: wet](https://dictionary.cambridge.org/dictionary/essential-american-english/wet), [gentle](https://dictionary.cambridge.org/dictionary/essential-american-english/gentle), and [prevent](https://dictionary.cambridge.org/dictionary/essential-american-english/prevent)
   Checked the water-covered, not-strong, and stop-from-happening senses used in the homework's glossed input phrases. These are recognition support rather than an extra active vocabulary list.
+
+## Lesson 15 vocabulary checks
+
+- [Cambridge: towel](https://dictionary.cambridge.org/us/dictionary/english/towel) and [Essential American English: dry](https://dictionary.cambridge.org/dictionary/essential-american-english/dry)
+  Checked the countable cloth noun and the A2 verb meaning to make something no longer wet. Teach towel and dry the car; do not add an adjective/verb contrast for dry. The source's microfiber material and absorption instructions stay in glossed phrases.
+- [Cambridge Essential American English: bring](https://dictionary.cambridge.org/us/dictionary/essential-american-english/bring)
+  Checked the A2 take-an-item-with-you sense for I can bring ... in the speaking task. This and We can use ... are optional whole-expression support, not a new modal-grammar system.
+
+## Speaking design and delivery
+
+- [Council of Europe: CEFR qualitative aspects of spoken language use](https://www.coe.int/en/web/common-european-framework-reference-languages/table-3-cefr-3.3-common-reference-levels-qualitative-aspects-of-spoken-language-use)
+  A2 permits short utterances, pauses, reformulation, and basic errors. Use the descriptors to set realistic expectations, while observing interaction and grammatical control separately. The tutor's A2 estimate concerns conveying meaning, not a formal level result.
+- [Cambridge: A2 Key teacher guide to assessing speaking](https://www.cambridgeenglish.org/Images/735386-a2-key-teacher-guide-assessing-speaking.pdf)
+  The accessible indexed guide text distinguishes grammar and vocabulary, pronunciation, and interactive communication, including prompting. It also recommends clear task goals and specific actionable feedback. Use these distinctions for observation, not exam preparation or a classroom pass mark.
+- [British Council: Criteria for identifying tasks for TBL](https://www.teachingenglish.org.uk/professional-development/teachers/knowing-subject/criteria-identifying-tasks-tbl)
+  Willis and Willis's meaning, outcome, completion, and real-world relevance criteria guide the car-wash planning task. Supplied facts make it guided communication; assess compulsory forms in the controlled exercises.
+- [British Council: Fluency activities for lower levels](https://www.teachingenglish.org.uk/teaching-resources/teaching-secondary/activities/pre-intermediate-a2/fluency-activities-lower)
+  Supports preparation, compact visual help, short speaking periods, and showing the task through a demonstration. Keep the available help small and stable for this learner.
+- [British Council: Teaching one-to-one](https://www.teachingenglish.org.uk/professional-development/teachers/managing-lesson/teaching-one-one) and [Question techniques and strategies](https://www.teachingenglish.org.uk/professional-development/teachers/managing-lesson/question-techniques-and-strategies)
+  Supports adapting pair tasks with the teacher as partner, explaining the purpose, and allowing processing time instead of filling each silence. Leave room for student-initiated questions.
+- [Johnson and Abdi Tabari (2022): Task Planning and Oral L2 Production](https://academic.oup.com/applij/article/43/6/1143/6682841)
+  The accessible abstract of this research synthesis and meta-analysis reports effects of planning on subsequent oral production. It supports offering preparation time; it does not prescribe the lesson's one-minute estimate.
+- [Abdi Tabari, Zhuang, and Farahanynia (2025): Task repetition and L2 oral performance](https://www.sciencedirect.com/science/article/abs/pii/S0346251X25002787)
+  The accessible abstract and preview report positive overall effects, moderated by task and implementation. Offer feedback and a replay with a small change, then check related language later. Improved repeated performance does not establish long-term transfer.
+- [British Council: Error correction](https://www.teachingenglish.org.uk/professional-development/teachers/assessing-learning/error-correction) and [Li, Ou, and Lee (2025): The timing of corrective feedback in second language learning](https://www.cambridge.org/core/journals/language-teaching/article/timing-of-corrective-feedback-in-second-language-learning/0E8856852D0183E9DD91EDB4C249E245)
+  The teacher guidance links correction choices to the activity aim. The research synthesis's accessible discussion reports advantages for immediate oral feedback in many studies, with variation in findings and definitions. Avoid an always-delay rule. Clarify misunderstandings immediately, use brief form feedback when helpful, and follow between-round correction with another opportunity to speak.
 
 ## Wisdom (Communities)
 
